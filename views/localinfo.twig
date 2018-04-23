@@ -1,0 +1,129 @@
+{% extends "template.twig" %}
+
+
+{% block  content %}
+
+    <!-- Two -->
+    <section id="two">
+        <div class="container">
+            <h3>Venue</h3>
+            <p>The conference will be held at <a href="https://www.kempinski.com/en/nairobi/hotel-villa-rosa/">Villa
+                    Rosa Kempinski</a>, a large hotel in the Westlands area of
+                Nairobi.</p>
+            <div class="row">
+
+                {#<div style='overflow:hidden;height:400px;width:100px;'>#}
+
+                <div id='gmap_canvas' style='height:400px;width:100%; padding-right: 40px; padding-left: 10px'></div>
+                {#</div>#}
+
+                <div style="margin-top: 54px;">
+                    <h4>How to get there from Jomo Kenyatta International Airport</h4>
+
+                    <p style="margin-left: 4px">
+
+                        Airport taxis are available through vendors at the international arrivals at Terminal 1B.
+                        Alternatively, most hotels can arrange pick ups from the airport. Uber also works in Nairobi and
+                        at Jomo Kenyatta International Airport (JKIA), but there is no free WiFi available at the
+                        airport, so you will require roaming data capabilities to use Uber.
+                    </p>
+                </div>
+
+
+            </div>
+            <h3>Accommodation</h3>
+            <div>
+                <p>
+                    A range of hotels are available close to the venue. <a
+                            href="https://travel.jumia.com/en-gb/hotels/kenya/westlands/10000393?q=Westlands&checkin=&checkout=&roomCount=1&adults=1&children=0">
+                        See here for more details</a>
+                </p>
+
+                <p>The most convenient hotels are:</p>
+                <ul>
+                    <li><a href="https://www.kempinski.com/en/nairobi/hotel-villa-rosa/">Kempinski</a></li>
+                    <li><a href="http://www.sankara.com/">Sankara</a></li>
+                    <li><a href="http://www.royalorchidhotels.com/hotel-royal-orchid-nairobi/overview">Hotel Royal
+                            Orchid Azure</a></li>
+                    <li><a href="http://www.jacarandahotels.com/">Jacaranda</a></li>
+                    <li><a href="http://www.tunehotels.com/in/en/our-hotels/nairobi/">Tune Hotel</a></li>
+                    <li><a href="http://www.prideinn.co.ke/hotels/prideinn-raphta/">PrideInn (Raphta Road Westlands)</a>
+                    </li>
+                    {#<li>Hotel Riverview Westlands, Juniper House</li>#}
+                </ul>
+                <p> AirBnB also works in Nairobi</p>
+                <p>Hotels can also be booked via <a
+                            href="https://travel.jumia.com/en-gb/hotels/kenya/westlands/10000393?q=Westlands&checkin=&checkout=&roomCount=1&adults=1&children=0">
+                        Jumia travel</a></p>
+
+            </div>
+            <h3>Transport</h3>
+            <div>
+                <p>
+                    You can take taxis from your hotel or use Uber, which works in Nairobi and is the cheapest and often
+                    easiest way of getting around.
+                    Public transport is through the matatu system, but there is no map or fixed departure times.
+                    Walking is not advised.
+                </p>
+            </div>
+            <h3>Local Activities</h3>
+            <div>
+                <li>
+                    <a href="https://www.tripadvisor.co.za/Attraction_Review-g294207-d311535-Reviews-Nairobi_National_Park-Nairobi.html">Nairobi
+                        National Park</a>
+                </li>
+                <li>
+                    <a href="https://www.tripadvisor.co.za/Attraction_Review-g294207-d1569686-Reviews-David_Sheldrick_Wildlife_Trust-Nairobi.html">David
+                        Sheldrick Elephant Orphanage</a>
+                </li>
+                <li>
+                    <a href="https://www.tripadvisor.co.za/Attraction_Review-g294207-d459948-Reviews-African_Fund_for_Endangered_Wildlife_Kenya_Ltd_Giraffe_Centre-Nairobi.html">Giraffe
+                        Center</a></li>
+                <li>
+                    <a href="https://www.tripadvisor.co.za/Attraction_Review-g317067-d472320-Reviews-Hell_s_Gate_National_Park-Naivasha_Rift_Valley_Province.html">Hell's
+                        Gate</a></li>
+                <li>
+                    <a href="https://www.tripadvisor.co.za/Attraction_Review-g294206-d472318-Reviews-Lake_Naivasha-Kenya.html">Naivasha</a>
+                </li>
+                <li>
+                    <a href="https://www.tripadvisor.ca/Tourism-g294209-Maasai_Mara_National_Reserve_Rift_Valley_Province-Vacations.html">Maasai
+                        Mara</a>
+                </li>
+                <li>
+                    <a href="https://www.tripadvisor.co.za/Attraction_Review-g294207-d1764232-Reviews-Anselm_Kitengela_Hot_Glass-Nairobi.html">Kitengela
+                        Glass</a>
+                </li>
+                <li>
+                    <a href="https://www.tripadvisor.co.za/Attraction_Review-g294207-d479163-Reviews-Bomas_of_Kenya-Nairobi.html">Bomas
+                        of Kenya</a>
+                </li>
+                <li>
+                    <a href="https://www.tripadvisor.co.za/Attraction_Review-g294207-d311544-Reviews-Nairobi_National_Museum-Nairobi.html">National
+                        Museum</a>
+                </li>
+            </div>
+        </div>
+    </section>
+
+    <!-- Three -->
+    <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyBqaEsL0fXdyB4lqpNLK4HuEhLix_Kth80"></script>    {#<script src='https://maps.googleapis.com/maps/api/js?v=3.exp'></script>#}
+    <script type='text/javascript'>function init_map() {
+            var myOptions = {
+                zoom: 15,
+                center: new google.maps.LatLng(-1.2710685, 36.80790509999997),
+                mapTypeId: google.maps.MapTypeId.ROADMAP
+            };
+            map = new google.maps.Map(document.getElementById('gmap_canvas'), myOptions);
+            marker = new google.maps.Marker({
+                map: map,
+                position: new google.maps.LatLng(-1.2710685, 36.80790509999997)
+            });
+            infowindow = new google.maps.InfoWindow({content: '<strong>Villa Rosa Kempinski</strong><br>Villa Rosa Kempinski, Chiromo Road, Nairobi<br>'});
+            google.maps.event.addListener(marker, 'click', function () {
+                infowindow.open(map, marker);
+            });
+            infowindow.open(map, marker);
+        }
+        google.maps.event.addDomListener(window, 'load', init_map);
+    </script>
+{% endblock %}

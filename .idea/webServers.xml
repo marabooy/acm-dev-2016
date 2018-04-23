@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="a843c77c-b88d-43f6-ac52-2b918249b28e" name="acmdev" url="http://acmdev.org">
+        <fileTransfer host="acmdev.org" port="22" rootFolder="/home/dev7/www/" accessType="SFTP" password="df9edfcedfcfdfdcdfc5dfc4dfc6dfd3df8b" username="dev7">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>

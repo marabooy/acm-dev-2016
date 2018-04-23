@@ -1,0 +1,949 @@
+[
+    {
+        "id": 2,
+        "title": "Sporshohin: A Tale of Devising Visible Light Based Low-Cost Robust Touchless Input Device",
+        "status": "submitted",
+        "submitted": true,
+        "submitted_at": 1466443255,
+        "authors": [
+            {
+                "email": "tusherchakraborty@matholympiad.org.bd",
+                "first": "Tusher",
+                "last": "Chakraborty",
+                "affiliation": "Bangladesh University of Engineering and Technology",
+                "contact": true
+            },
+            {
+                "email": "nasim.buet.bd@gmail.com",
+                "first": "Md.",
+                "last": "Nasim",
+                "affiliation": "Bangladesh University of Engineering and Technology",
+                "contact": true
+            },
+            {
+                "email": "0905039.smbm@ugrad.cse.buet.ac.bd",
+                "first": "Sakib Md. Bin",
+                "last": "Malek",
+                "affiliation": "Bangladesh University of Engineering and Technology",
+                "contact": true
+            },
+            {
+                "email": "mythoss1092019@gmail.com",
+                "first": "Md Taksir Hasan Majumder",
+                "last": "Sami",
+                "affiliation": "Bangladesh University of Engineering and Technology",
+                "contact": true
+            },
+            {
+                "email": "saeefsami@gmail.com",
+                "first": "Mohammed Samiul",
+                "last": "Saeef",
+                "affiliation": "Bangladesh University of Engineering and Technology"
+            },
+            {
+                "email": "alim_razi@cse.buet.ac.bd",
+                "first": "A. B. M. Alim Al",
+                "last": "Islam",
+                "affiliation": "Bangladesh University of Engineering and Technology",
+                "contact": true
+            }
+        ],
+        "abstract": "In recent times, migrating from touch-based input devices to touchless input devices has become one of the major research problems considering the health hazards exposed in public usages (e.g., information kiosk) of the touch-based devices. The problem still remains mostly open, since a solution having the properties of being low-cost, low power consuming, robust, and easy-to-use, is yet to be proposed in the literature. As a remedy to this situation, in this paper, we propose a visible light based touchless input device (named Sporshohin), retaining all the properties mentioned above, for ensuring ubiquitous usage. Sporshohin recognizes predefined gestures performed by the user, through an underlying mechanism that exploits well-known reflection model over the visible light spectrum. The underlying mechanism is intelligent enough to guarantee robustness against varying environmental lighting conditions and undefined noisy gestures. Real implementation, involving interaction with diversified users, confirms high accuracy and usability along with existence of all the above mentioned properties. We show the emulation of Sporshohin as an input interface for an information kiosk. The attributes of Sporshohin exhibit its prospect of being used in diversified applications going beyond information kiosks.",
+        "topics": {
+            "HCI and Applications": true,
+            "Systems": true
+        },
+        "submission": {
+            "mimetype": "application\/pdf",
+            "sha1": "32aa256c0ba0dda30ed0d167f96d146c51793446",
+            "timestamp": 1467378839,
+            "filename": "Sporshohin.pdf"
+        },
+        "final": {
+            "mimetype": "application\/pdf",
+            "sha1": "12dffc931c6db9f982536fd160a9afac328e7841",
+            "timestamp": 1474738113,
+            "filename": "Sporshohin.pdf"
+        },
+        "final_submitted": true,
+        "final_submitted_at": 1474720923,
+        "pc_conflicts": {
+            "aseth@cse.iitd.ernet.in": "collaborator",
+            "br@cse.iitb.ac.in": "collaborator"
+        }
+    },
+    {
+        "id": 3,
+        "title": "EyePen: Ease of Reading for Less Privileged Visually-Impaired People",
+        "status": "submitted",
+        "submitted": true,
+        "submitted_at": 1467405194,
+        "authors": [
+            {
+                "email": "tusherchakraborty@matholympiad.org.bd",
+                "first": "Tusher",
+                "last": "Chakraborty",
+                "affiliation": "Bangladesh University of Engineering and Technology",
+                "contact": true
+            },
+            {
+                "email": "arefin612@gmail.com",
+                "first": "Taslim Arefin",
+                "last": "Khan",
+                "affiliation": "Bangladesh University of Engineering and Technology"
+            },
+            {
+                "email": "alim_razi@cse.buet.ac.bd",
+                "first": "A. B. M. Alim Al",
+                "last": "Islam",
+                "affiliation": "Bangladesh University of Engineering and Technology",
+                "contact": true
+            }
+        ],
+        "abstract": "People with visual impairment use Braille as a medium of textual representation having palpable dots. While the more privileged among us use OCR based text readers as preferential alternative, the lesser privileged ones are still bundling with conventional Braille tools. Our endeavor in this paper is to develop a low-cost and easy-to-use solution for less privileged people. Here, we propose EyePen, a system that enables less privileged visually-impaired people reading Braille characters, printed using conventional ink-jet and laser printers. The use of printed Braille characters, using ink-jet printers, offers a cost-effective alternative in place of the more expensively printed conventional palpable Braille dots. Besides, EyePen demands a very short learning period and offers a smooth learning experience ensuring ease-of-use while being in operation. We perform user evaluation over our developed system to confirm these findings. The user evaluation results show that the accuracy of reading printed Braille characters using EyePen converges to 100% within a very short period of time for all users. Finally, we present a potential writing aid that can facilitate low-cost and easy writing of Braille characters on normal paper exploiting our system.",
+        "topics": {
+            "HCI and Applications": true,
+            "Systems": true
+        },
+        "submission": {
+            "mimetype": "application\/pdf",
+            "sha1": "1ab2938ced1fd599478e07716cafba81a2dfdf24",
+            "timestamp": 1467453326,
+            "filename": "EyePen.pdf"
+        },
+        "final": {
+            "mimetype": "application\/pdf",
+            "sha1": "2695a2349392c855a4760a4b9b9f978bf1976367",
+            "timestamp": 1474669885,
+            "filename": "EyePen.pdf"
+        },
+        "final_submitted": true,
+        "final_submitted_at": 1474669885,
+        "pc_conflicts": {
+            "aseth@cse.iitd.ernet.in": "collaborator",
+            "br@cse.iitb.ac.in": "collaborator"
+        }
+    },
+    {
+        "id": 6,
+        "title": "A Case Study for Sensitising Egyptian Engineering Students to User-Experience in Technology Design",
+        "status": "submitted",
+        "submitted": true,
+        "submitted_at": 1467416992,
+        "authors": [
+            {
+                "email": "slazem@srtacity.sci.eg",
+                "first": "Shaimaa",
+                "last": "Lazem",
+                "affiliation": "City for Scientific Research and Technology Applications"
+            }
+        ],
+        "contacts": [
+            {
+                "email": "shaimaalazem@gmail.com",
+                "first": "Shaimaa",
+                "last": "Lazem",
+                "affiliation": "City of Scientific Research and Technological Applications"
+            }
+        ],
+        "abstract": "Information and Communication Technologies (ICT) are considered one of the promising pillars for Egypt's economic growth.\r\nRecent social responsibility initiatives aim at leveraging the potentials of ICT industry to achieve inclusive development.\r\nThe current workforce is technically-oriented due to the rise of global outsourcing.\r\nThere is a need for a workforce that is willing to engage with the bottom the pyramid as a potential market.    \r\n\r\nHuman-Computer Interaction (HCI) discipline puts the user in the heart of the design process, and thus it is argued that teaching HCI could build a capacity necessary to fulfil the workforce gap.\r\nHCI education is underrated by engineering students due to the way by which its courses are integrated in the Egyptian curriculum along with other inherited pedagogical challenges.\r\nFollowing the best practices of introductory HCI courses, an interactive two-weeks Winter School activity was designed for sensitising 31 engineering undergraduates to user-experience in technology design.\r\nThe students' feedback, the instructor's reflections, and the implications on future offerings are presented.",
+        "topics": {
+            "HCI and Applications": true
+        },
+        "submission": {
+            "mimetype": "application\/pdf",
+            "sha1": "b0e059f9f9a7d412e3ec08fbe8bee02c5a3f2fb3",
+            "timestamp": 1467417402,
+            "filename": "2016-acmdev-lazem-1.3.pdf"
+        },
+        "final": {
+            "mimetype": "application\/pdf",
+            "sha1": "cadcb5ee8f0fcff67cdcbd07cc88e43289d08b5f",
+            "timestamp": 1474937501,
+            "filename": "2016-acmdev-lazem-1.3-fixed-clean.pdf"
+        },
+        "final_submitted": true,
+        "final_submitted_at": 1474680457
+    },
+    {
+        "id": 19,
+        "title": "Preventive Detection of Mosquito Populations using Embedded Machine Learning on Low Power IoT Platforms",
+        "status": "submitted",
+        "submitted": true,
+        "submitted_at": 1467388435,
+        "authors": [
+            {
+                "email": "prashant014@e.ntu.edu.sg",
+                "first": "Prashant",
+                "last": "Ravi",
+                "affiliation": "NTU Singapore"
+            },
+            {
+                "email": "uma005@e.ntu.edu.sg",
+                "first": "Uma",
+                "last": "Syam",
+                "affiliation": "NTU Singapore"
+            },
+            {
+                "email": "nachiket@ieee.org",
+                "first": "Nachiket",
+                "last": "Kapre",
+                "affiliation": "University of Waterloo",
+                "contact": true
+            }
+        ],
+        "abstract": "We can accurately detect mosquito species with 80% accuracy using frequency spectrum analysis of insect wing-beat patterns when mapped to low-power embedded\/IoT hard- ware. We combine energy-efficient hardware acceleration optimizations with algorithmic tuning of signal processing and machine-learning routines to deliver a platform for in- sect classification. The use of low power accelerator blocks in cheap embedded boards such as the Raspberry Pi 3 and Intel Edison, along with performance tuning of the soft- ware implementations enable a competitive implementation of mosquito classification task on standard datasets. Our approach demonstrates a concrete application of embedding intelligence in edge devices for reducing system-level energy needs instead of simply uploading sensory data directly to the cloud for post-processing. For the mosquito classification task, we are able to deliver classification accuracies as high as 80% with Intel Edison processing times as low as 5 ms per sample and an energy use of 5 mJ per sample (2 months of continuous non-stop use on an AA battery with 2000 mAh capacity or longer depending on insect activity). We envision a network of connected sensors and embedded\/IoT platforms deployed in vulnerable areas such as construction sites, mines, areas of known mosquito activity, ponds, river- fronts, or other areas with standing water bodies. In our experiments, targeting a 20% loss rate, we observed the ad-hoc WiFi range for mesh networks using the Raspberry Pi 3 boards to be 14m while the Photon board connecting to WiFi router nodes can stretch this to 35 m.",
+        "topics": {
+            "Data Science": true,
+            "General": true
+        },
+        "submission": {
+            "mimetype": "application\/pdf",
+            "sha1": "6000edac7ef35c192777adffb6da07a92387886e",
+            "timestamp": 1467416850,
+            "filename": "draft.pdf"
+        },
+        "final": {
+            "mimetype": "application\/pdf",
+            "sha1": "7be420d125a6d93dcc6dc2fdf867ff7b821e12c9",
+            "timestamp": 1474688047,
+            "filename": "draft-embed.pdf"
+        },
+        "final_submitted": true,
+        "final_submitted_at": 1474688047
+    },
+    {
+        "id": 22,
+        "title": "Bringing the Cloud to Rural and Remote Areas via Cloudlets",
+        "status": "submitted",
+        "submitted": true,
+        "submitted_at": 1466757054,
+        "authors": [
+            {
+                "email": "shelmer@inf.unibz.it",
+                "first": "Sven",
+                "last": "Helmer",
+                "affiliation": "Free University of Bozen-Bolzano",
+                "contact": true
+            },
+            {
+                "email": "cpahl@unibz.it",
+                "first": "Claus",
+                "last": "Pahl",
+                "affiliation": "Free University of Bozen-Bolzano"
+            },
+            {
+                "email": "Julian.Sanin@unibz.it",
+                "first": "Julian",
+                "last": "Sanin",
+                "affiliation": "Free University of Bozen-Bolzano"
+            },
+            {
+                "email": "memorys60@gmail.com",
+                "first": "Lorenzo",
+                "last": "Miori",
+                "affiliation": "Free University of Bozen-Bolzano"
+            },
+            {
+                "email": "Stefan.Brocanelli@stud-inf.unibz.it",
+                "first": "Stefan",
+                "last": "Brocanelli",
+                "affiliation": "Free University of Bozen-Bolzano"
+            },
+            {
+                "email": "Filippo.Cardano@stud-inf.unibz.it",
+                "first": "Filippo",
+                "last": "Cardano",
+                "affiliation": "Free University of Bozen-Bolzano"
+            },
+            {
+                "email": "Daniele.Gadler@stud-inf.unibz.it",
+                "first": "Daniele",
+                "last": "Gadler",
+                "affiliation": "Free University of Bozen-Bolzano"
+            },
+            {
+                "email": "danielmorandini@me.com",
+                "first": "Daniel",
+                "last": "Morandini",
+                "affiliation": "Free University of Bozen-Bolzano"
+            },
+            {
+                "email": "mpiccoli2958@gmail.com",
+                "first": "Alessandro",
+                "last": "Piccoli",
+                "affiliation": "Free University of Bozen-Bolzano"
+            },
+            {
+                "email": "saifur.salam@gmail.com",
+                "first": "Saifur",
+                "last": "Salam",
+                "affiliation": "Free University of Bozen-Bolzano"
+            },
+            {
+                "email": "shantunus07@gmail.com",
+                "first": "Alam Mahabub",
+                "last": "Shahrear",
+                "affiliation": "Free University of Bozen-Bolzano"
+            },
+            {
+                "email": "Angelo.Ventura@unibz.it",
+                "first": "Angelo",
+                "last": "Ventura",
+                "affiliation": "Free University of Bozen-Bolzano"
+            },
+            {
+                "email": "pekkaa@ntnu.no",
+                "first": "Pekka",
+                "last": "Abrahamsson",
+                "affiliation": "Norwegian University of Science and Technology"
+            },
+            {
+                "email": "tosin.oyetoyan@sintef.no",
+                "first": "Tosin Daniel",
+                "last": "Oyetoyan",
+                "affiliation": "SINTEF Energy Research"
+            }
+        ],
+        "abstract": "Instead of relying on huge and expensive data centers for rolling out cloud-based services to rural and remote areas, we propose a hardware platform based on small single-board computers. The role of these micro-data centers is twofold. On the one hand, they act as intermediaries between cloud services and clients, improving availability in the case of network or power outages. On the other hand, they run community-based services on local infrastructure. We illustrate how to build such a system without incurring high costs, high power consumption, or single points of failure. Additionally, we opt for a system that is extendable and scalable as well as easy to deploy, relying on an open design.",
+        "topics": {
+            "Systems": true
+        },
+        "submission": {
+            "mimetype": "application\/pdf",
+            "sha1": "60f4311a2d8346b601d6d1e051a2c37c6931e5fd",
+            "timestamp": 1467381141,
+            "filename": "acmdev.pdf"
+        },
+        "final": {
+            "mimetype": "application\/pdf",
+            "sha1": "03d1b2a204621e74e2d1723d33ae8fd01d245ddf",
+            "timestamp": 1474700266,
+            "filename": "paper22.pdf"
+        },
+        "final_submitted": true,
+        "final_submitted_at": 1474700266
+    },
+    {
+        "id": 25,
+        "title": "Let's Talk Money: Evaluating the Security Challenges of Mobile Money in the Developing World",
+        "status": "submitted",
+        "submitted": true,
+        "submitted_at": 1466816130,
+        "authors": [
+            {
+                "email": "stcastle@cs.washington.edu",
+                "first": "Sam",
+                "last": "Castle",
+                "affiliation": "University of Washington",
+                "contact": true
+            },
+            {
+                "email": "fahadp@cs.washington.edu",
+                "first": "Fahad",
+                "last": "Pervaiz",
+                "affiliation": "University of Washington",
+                "contact": true
+            },
+            {
+                "email": "gcw33@cornell.edu",
+                "first": "Galen",
+                "last": "Weld",
+                "affiliation": "Cornell University"
+            },
+            {
+                "email": "franzi@cs.washington.edu",
+                "first": "Franziska",
+                "last": "Roesner",
+                "affiliation": "University of Washington",
+                "contact": true
+            },
+            {
+                "email": "anderson@cs.washington.edu",
+                "first": "Richard",
+                "last": "Anderson",
+                "affiliation": "University of Washington"
+            }
+        ],
+        "abstract": "Digital money drives modern economies, and the global adoption of mobile phones has enabled a wide range of digital financial services in the developing world. Where there is money, there must be security, yet prior work on mobile money has identified discouraging vulnerabilities in the current ecosystem. We begin by arguing that the situation is not as dire as it may seem---many reported issues can be resolved by security best practices and updated mobile software. To support this argument, we diagnose the problems from two directions: (1) a large-scale analysis of existing financial service products and (2) a series of interviews with 7 developers and designers in Africa and South America. We frame this assessment within a novel, systematic threat model. In our large-scale analysis, we evaluate 197 Android apps  and take a deeper look at 71 products to assess specific organizational practices. We conclude that although attack vectors are present in many apps, service providers are generally making intentional, security-conscious decisions. The developer interviews support these findings,  as most participants demonstrated technical competency and experience, and all worked within established organizations with regimented code review processes and dedicated security teams.",
+        "topics": {
+            "General": true,
+            "Systems": true
+        },
+        "submission": {
+            "mimetype": "application\/pdf",
+            "sha1": "5a704a6ed7fe7a6ce177bc055b67553b9acd6f6e",
+            "timestamp": 1467414765,
+            "filename": "lets_talk_money.pdf"
+        },
+        "final": {
+            "mimetype": "application\/pdf",
+            "sha1": "d63128ac9a6bf39e7914747c709d92c4612579fc",
+            "timestamp": 1474921589,
+            "filename": "castle_lets-talk-money.pdf"
+        },
+        "final_submitted": true,
+        "final_submitted_at": 1474921589,
+        "pc_conflicts": {
+            "nixdell@cornell.edu": "collaborator",
+            "bderenzi@cs.uct.ac.za": "collaborator",
+            "anderson@cs.uw.edu": "collaborator",
+            "neha.kumar@gmail.com": "collaborator",
+            "kheimerl@cs.washington.edu": "collaborator",
+            "umar@csail.mit.edu": "collaborator",
+            "s.lakme@gmail.com": "collaborator"
+        }
+    },
+    {
+        "id": 26,
+        "title": "A Family Health App: Engaging Children to Manage Wellness of Adults",
+        "status": "submitted",
+        "submitted": true,
+        "submitted_at": 1467376033,
+        "authors": [
+            {
+                "email": "katulentwa@gmail.com",
+                "first": "Ntwa A.",
+                "last": "Katule",
+                "affiliation": "University of Cape Town",
+                "contact": true
+            },
+            {
+                "email": "mdensmore@cs.uct.ac.za",
+                "first": "Melissa",
+                "last": "Densmore",
+                "affiliation": "University of Cape Town",
+                "contact": true
+            },
+            {
+                "email": "ulrike.rivett@uct.ac.za",
+                "first": "Ulrike",
+                "last": "Rivett",
+                "affiliation": "University of Cape Town",
+                "contact": true
+            }
+        ],
+        "abstract": "The pandemic of lifestyle-related chronic diseases has led to an advent of personal health informatics, with the goal of persuading individuals to adopt healthful lifestyles. Such systems implement various motivational strategies to promote ongoing use. Existing initiatives to design such systems focus on engaging only the beneficiary of information derived from those systems. In this study, we explored how one can use gamification to motivate ongoing usage of such systems in the context of intermediated technology use. We studied the effect of gamification in motivating young family members to assist adults who might be less conversant or intimidated with such a technology. We compared two designs of a mobile wellness application of which one prototype is gamified and the other one is not gamified. Our findings suggest that virtual rewards can enhance usage of such systems through intermediary users. We highlight some of the design implications in order to foster perceived enjoyment in using such a system.",
+        "topics": {
+            "HCI and Applications": true
+        },
+        "submission": {
+            "mimetype": "application\/pdf",
+            "sha1": "7a7dd2324484afa5d7e648a28940fe2e3b26ed35",
+            "timestamp": 1467417535,
+            "filename": "acmdev2016.pdf"
+        },
+        "pc_conflicts": {
+            "bderenzi@cs.uct.ac.za": "collaborator",
+            "btucker@uwc.ac.za": "collaborator",
+            "carlos.reymoreno@gmail.com": "collaborator",
+            "djohnson@csir.co.za": "collaborator",
+            "mdensmore@cs.uct.ac.za": "author"
+        }
+    },
+    {
+        "id": 32,
+        "title": "Equitable development through deep learning: The case of sub-national population density estimation",
+        "status": "submitted",
+        "submitted": true,
+        "submitted_at": 1467417232,
+        "authors": [
+            {
+                "email": "patrick.doupe@gmail.com",
+                "first": "Patrick",
+                "last": "Doupe",
+                "affiliation": "Arnhold Institute for Global Health",
+                "contact": true
+            },
+            {
+                "email": "emilie.bruzelius@mssm.edu",
+                "first": "Emilie",
+                "last": "Bruzelius",
+                "affiliation": "Arnhold Institute for Global Health and Columbia University",
+                "contact": true
+            },
+            {
+                "email": "sruchman@healthenvoy.org",
+                "first": "Samuel G.",
+                "last": "Ruchman",
+                "affiliation": "Office of the UN Secretary-General's Special Envoy for Health in Agenda 2030 and for Malaria"
+            },
+            {
+                "email": "james.faghmous@mssm.edu",
+                "first": "James H.",
+                "last": "Faghmous",
+                "affiliation": "Arnhold Institute for Global Health"
+            }
+        ],
+        "abstract": "High-resolution population density maps are a critical component for global development efforts, including service delivery, resource allocation, and disaster response. Traditional population density efforts are predominantly survey driven, which are laborious, prohibitively expensive, infrequently updated, and often inaccurate -- especially in remote areas. Furthermore, these maps are developed on a regional-basis where the methods used vary region to region, hence introducing notable spatio-temporal heterogeneity and bias. \r\n\r\nThe advent of global-scale satellite imagery provides us with an unprecedented opportunity to create inexpensive, accurate, homogeneous, and rapidly updated population maps. To fulfill this vision, we must overcome both infrastructure and methodological obstacles. We propose a convolutional neural network approach that addresses some of the methodological challenges, while employing a publicly available, albeit low resolution, remote sensed product. The method converts satellite images into population density estimates. To explore both the accuracy and generalizability of our approach, we train our neural network on Tanzanian imagery and test the model on Kenyan data. We show that our method is able to generalize to unseen data and we improve upon the current state of the art by 177 percent.",
+        "topics": {
+            "Data Science": true
+        },
+        "submission": {
+            "mimetype": "application\/pdf",
+            "sha1": "4df15f8c25f091352545a96ff662918508f05af8",
+            "timestamp": 1467421568,
+            "filename": "ACM_Dev_2016 (4).pdf"
+        },
+        "final": {
+            "mimetype": "application\/pdf",
+            "sha1": "b66314410c5b0e7a9219fd4bb339902748c84d93",
+            "timestamp": 1474676174,
+            "filename": "acm_dev_2016.pdf"
+        },
+        "final_submitted": true,
+        "final_submitted_at": 1474676174,
+        "pc_conflicts": {
+            "jfaghm@gmail.com": "collaborator"
+        }
+    },
+    {
+        "id": 38,
+        "title": "Apps and Skits: Enabling New Forms of Village-To-Clinic Feedback for Rural Health Education",
+        "status": "submitted",
+        "submitted": true,
+        "submitted_at": 1467412000,
+        "authors": [
+            {
+                "email": "mmolapo@cs.uct.ac.za",
+                "first": "Maletsabisa",
+                "last": "Molapo",
+                "affiliation": "University of Cape Town",
+                "contact": true
+            },
+            {
+                "email": "mdensmore@cs.uct.ac.za",
+                "first": "Melissa",
+                "last": "Densmore",
+                "affiliation": "University of Cape Town",
+                "contact": true
+            },
+            {
+                "email": "lmorie@herchancetobe.org",
+                "first": "Limpho",
+                "last": "Morie",
+                "affiliation": "Bophelo Haeso"
+            }
+        ],
+        "contacts": [
+            {
+                "email": "maletsabisam@gmail.com",
+                "first": "Maletsabisa",
+                "last": "Molapo",
+                "affiliation": "University of Cape Town"
+            }
+        ],
+        "abstract": "We present the results of deploying a feedback mechanism in a community health education project, which enables rural-based nurses to elicit feedback from rural villages in order to improve their efforts in health education and service delivery in these areas. We implemented a mobile asynchronous-voice platform, through which Community Health Workers (CHWs) in rural Lesotho report previously unknown health challenges and knowledge gaps to the nurses, who then create new digital content and redesign service delivery to address these challenges. Beyond this, we also used role-play both as an additional feedback channel and a design tool. Our results demonstrate the combined benefits of implementing creative methods for effective human-to-technology and human-to-human communication in ways that enable new forms of expression; and highlight the importance of using role play in HCI4D contexts. We also present the benefits of incorporating an effective village-to-clinic feedback mechanism in health education programs.",
+        "topics": {
+            "HCI and Applications": true
+        },
+        "submission": {
+            "mimetype": "application\/pdf",
+            "sha1": "48ccaa2ba2aafa6b4b324a71f533eb9c0ab0109c",
+            "timestamp": 1467417465,
+            "filename": "Apps and Skits Paper - DEV 2016 submission.pdf"
+        },
+        "final": {
+            "mimetype": "application\/pdf",
+            "sha1": "dcf330dfb1b4343eda400f66a4fc3bb3b42d7128",
+            "timestamp": 1474697576,
+            "filename": "Apps and Skits ACM DEV 2016.pdf"
+        },
+        "final_submitted": true,
+        "final_submitted_at": 1474697418,
+        "pc_conflicts": {
+            "thies@microsoft.com": "collaborator",
+            "bderenzi@cs.uct.ac.za": "collaborator",
+            "cutrell@microsoft.com": "collaborator",
+            "indranim@microsoft.com": "collaborator",
+            "btucker@uwc.ac.za": "collaborator",
+            "djohnson@csir.co.za": "collaborator",
+            "mdensmore@cs.uct.ac.za": "author"
+        }
+    },
+    {
+        "id": 41,
+        "title": "Design and Implementation of an Open Source ‘Thin SIM’ System for Collecting Data & Supporting Global Health Care",
+        "status": "submitted",
+        "submitted": true,
+        "submitted_at": 1467387050,
+        "authors": [
+            {
+                "email": "isaac@medicmobile.org",
+                "first": "Isaac",
+                "last": "Holeman",
+                "affiliation": "University of Cambridge and Medic Mobile",
+                "contact": true
+            },
+            {
+                "email": "amanda@medicmobile.org",
+                "first": "Amanda",
+                "last": "Yembrick",
+                "affiliation": "Medic Mobile"
+            },
+            {
+                "email": "david@medicmobile.org",
+                "first": "David",
+                "last": "Brown",
+                "affiliation": "Medic Mobile"
+            },
+            {
+                "email": "dianna@medicmobile.org",
+                "first": "Dianna",
+                "last": "Kane",
+                "affiliation": "Medic Mobile"
+            },
+            {
+                "email": "katanu@medicmobile.org",
+                "first": "Jane",
+                "last": "Katanu",
+                "affiliation": "Medic Mobile"
+            },
+            {
+                "email": "marc@medicmobile.org",
+                "first": "Marc",
+                "last": "Abbyad",
+                "affiliation": "Medic Mobile"
+            },
+            {
+                "email": "ranju@medicmobile.org",
+                "first": "Ranju",
+                "last": "Sharma",
+                "affiliation": "Medic Mobile"
+            }
+        ],
+        "abstract": "Cutting edge communication technologies such as smartphones remain far from prevalent in most of the settings with the greatest need for improved health and development programs. As a result, designers of ICT4D initiatives often weigh difficult tradeoffs between the usability of smartphone applications for structured data collection versus the battery life, durability, cost and familiarity of basic phones. However, as this paper and our deployment experiences demonstrate, such tradeoffs are not entirely necessary. Most mobile network operators in sub-Saharan Africa offer value added services via simple, menu-driven applications that run directly from the SIM card. While conventional SIM applications can only be accessed by mobile network operators, this paper describes the design and implementation of a ‘thin SIM’ approach that does not require mobile network operator involvement. We have implemented this tool with more than 3,000 health workers and describe particular deployment experiences in Kenya, Benin, Nepal and Guatemala. We then reflect on a number of important limitations of the thin SIM approach, and opportunities for further development and deployment. Ultimately, we argue that there is an important role for SIM applications as one part of a configurable data collection toolkit for supporting global health and development programs.",
+        "topics": {
+            "Systems": true
+        },
+        "submission": {
+            "mimetype": "application\/pdf",
+            "sha1": "d4633b97f1e2f3d99107802bf30d38d024f29d68",
+            "timestamp": 1467387050,
+            "filename": "2016 06 30 Formatted manuscript.pdf"
+        },
+        "final": {
+            "mimetype": "application\/pdf",
+            "sha1": "12ba44c80732c8346579e21b9aa9c2355fbd92c0",
+            "timestamp": 1474670807,
+            "filename": "Holeman ACM DEV 16 camera ready manuscript.pdf"
+        },
+        "final_submitted": true,
+        "final_submitted_at": 1474670807,
+        "pc_conflicts": {
+            "anderson@cs.uw.edu": "collaborator",
+            "kheimerl@cs.washington.edu": "collaborator",
+            "mahesh@ed.ac.uk": "collaborator"
+        }
+    },
+    {
+        "id": 49,
+        "title": "Alphacodes: Usable, Secure Transactions with Untrusted Providers using Human Computable Puzzles",
+        "status": "submitted",
+        "submitted": true,
+        "submitted_at": 1467404610,
+        "authors": [
+            {
+                "first": "Ashlesh",
+                "last": "Sharma",
+                "affiliation": "Entrupy Inc."
+            },
+            {
+                "email": "vc1113@nyu.edu",
+                "first": "Varun",
+                "last": "Chandrasekaran",
+                "affiliation": "NYU",
+                "contact": true
+            },
+            {
+                "first": "Fareeha",
+                "last": "Amjad",
+                "affiliation": "NYUAD"
+            },
+            {
+                "first": "Dennis",
+                "last": "Shasha",
+                "affiliation": "NYU"
+            },
+            {
+                "email": "lakshmi@cs.nyu.edu",
+                "first": "Lakshminarayanan",
+                "last": "Subramanian",
+                "affiliation": "NYU",
+                "contact": true
+            }
+        ],
+        "abstract": "Many banking and commerce payment systems in developing regions require users to share private or sensitive information in clear-text with untrusted providers exposing them to different forms of MitM attacks. In this paper, we introduce Alphacodes, a new paradigm that enables users to secure transactions with untrusted parties using the notion of human-computable visual puzzles. We describe how Alphacodes can be applied in different use cases and also show two simple applications that we have built using the Alphacodes framework. We motivate our solution using security vulnerabilities in existing systems, and show how our protocol overcomes them. We also demonstrate the ease of use of Alphacodes with minimal training using two simple crowdsourcing studies. Using another simple real world user study involving 10 users who speak Kannada (a regional Indian language), we show that the Alphacodes concept can be easily extended to other languages beyond English.",
+        "topics": {
+            "HCI and Applications": true
+        },
+        "submission": {
+            "mimetype": "application\/pdf",
+            "sha1": "86364cab89d4bd6b87a6dbcaca2c1f9d3d4c1811",
+            "timestamp": 1467408588,
+            "filename": "alphacodes-usable-secure.pdf"
+        },
+        "final": {
+            "mimetype": "application\/pdf",
+            "sha1": "09d0ed3718e8363ffdefbb8cad65cef06dd0b74f",
+            "timestamp": 1475476862,
+            "filename": "alphacodes-usable-secure.pdf"
+        },
+        "final_submitted": true,
+        "final_submitted_at": 1475476862,
+        "pc_conflicts": {
+            "rc167@nyu.edu": "collaborator",
+            "agha.ali.raza@gmail.com": "collaborator",
+            "jay.chen@nyu.edu": "collaborator",
+            "umar@csail.mit.edu": "collaborator",
+            "s.lakme@gmail.com": "collaborator"
+        }
+    },
+    {
+        "id": 50,
+        "title": "Iterative Design of an Immunization Information System in Pakistan",
+        "status": "submitted",
+        "submitted": true,
+        "submitted_at": 1467414948,
+        "authors": [
+            {
+                "email": "samia.razaq@itu.edu.pk",
+                "first": "Samia",
+                "last": "Razaq",
+                "affiliation": "Information Technology University",
+                "contact": true
+            },
+            {
+                "email": "ab133@itu.edu.pk",
+                "first": "Amna",
+                "last": "Batool",
+                "affiliation": "Information Technology University",
+                "contact": true
+            },
+            {
+                "email": "umair.ali@itu.edu.pk",
+                "first": "Umair",
+                "last": "Ali",
+                "affiliation": "Information Technology University",
+                "contact": true
+            },
+            {
+                "email": "salman.khalid@itu.edu.pk",
+                "first": "Muhammad Salman",
+                "last": "Khalid",
+                "affiliation": "Information Technology University"
+            },
+            {
+                "email": "saif.umar@gmail.com",
+                "first": "Umar",
+                "last": "Saif",
+                "affiliation": "Information Technology University"
+            },
+            {
+                "email": "mustafa.naseem@itu.edu.pk",
+                "first": "Mustafa",
+                "last": "Naseem",
+                "affiliation": "Information Technology University",
+                "contact": true
+            }
+        ],
+        "abstract": "Routine early age child immunization is one of the most cost-effective public health interventions. The use of Information and Communication Technology (ICT) tools such as Immunization Information Systems (IIS) to improve efficiency of vaccination programs has shown mixed but encouraging results in terms of success. The objective of this paper is to present evidence of Evaccs – a successfully deployed smartphone based vaccinator monitoring app, discuss the need to create a smartphone enabled IIS (called Har Zindagi – every life matters) that can store digital records of every child, discuss various design and implementation features of Har Zindagi’s android application, and present findings of the usability testing performed on the Har Zindagi android app. Given that the vaccinators are non tech-savvy, and the real estate on a smartphone is limited, this application was particularly designed to allow easy record entry process, and smoothen the workflow. This paper builds upon previous work on user interface design for low-literate users, and identifies techniques to iteratively design interfaces with government employees, who may be uncomfortable with giving usability feedback due to fear of repercussions or might have different field reality when compared to their supervisors and policy makers.",
+        "topics": {
+            "General": true,
+            "HCI and Applications": true
+        },
+        "submission": {
+            "mimetype": "application\/pdf",
+            "sha1": "57c53e936d9047a41fa8888873a6953022e0cd6f",
+            "timestamp": 1467416822,
+            "filename": "Immunization Paper_v13.pdf"
+        },
+        "final": {
+            "mimetype": "application\/pdf",
+            "sha1": "6757830d5d4ff2149aa3a8d931a306e4c1da1298",
+            "timestamp": 1474712481,
+            "filename": "Iterative Design of an Immunization Information System in Pakistan.pdf"
+        },
+        "final_submitted": true,
+        "final_submitted_at": 1474712088,
+        "pc_conflicts": {
+            "rc167@nyu.edu": "collaborator",
+            "roni@cs.cmu.edu": "collaborator",
+            "agha.ali.raza@gmail.com": "collaborator",
+            "anderson@cs.uw.edu": "collaborator",
+            "kentaro_toyama@hotmail.com": "collaborator",
+            "kheimerl@cs.washington.edu": "collaborator",
+            "umar@csail.mit.edu": "collaborator",
+            "s.lakme@gmail.com": "collaborator"
+        }
+    },
+    {
+        "id": 58,
+        "title": "A First Look at Mobile Internet Use in Township Communities in South Africa",
+        "status": "submitted",
+        "submitted": true,
+        "submitted_at": 1467415910,
+        "authors": [
+            {
+                "email": "aphokeer@cs.uct.ac.za",
+                "first": "Amreesh",
+                "last": "Phokeer",
+                "affiliation": "University of Cape Town"
+            },
+            {
+                "email": "djohnson@csir.co.za",
+                "first": "David",
+                "last": "Johnson",
+                "affiliation": "CSIR",
+                "contact": true
+            },
+            {
+                "email": "mdensmore@cs.uct.ac.za",
+                "first": "Melissa",
+                "last": "Densmore",
+                "affiliation": "University of Cape Town",
+                "contact": true
+            },
+            {
+                "email": "feamster@cs.princeton.edu",
+                "first": "Nick",
+                "last": "Feamster",
+                "affiliation": "Princeton University"
+            }
+        ],
+        "contacts": [
+            {
+                "email": "amreesh.phokeer@gmail.com",
+                "first": "Amreesh",
+                "last": "Phokeer",
+                "affiliation": "University of Cape Town"
+            }
+        ],
+        "abstract": "This paper presents a study of mobile data usage in South African townships. In contrast to previous studies, which have studied mobile data usage in developing regions (including South Africa), we focus our study on two townships in South Africa; the extremely resource-constrained nature of townships sheds light, for the first time, on how people in these communities use mobile data. We perform a mixed-methods study, combining quantitative\r\nnetwork measurements of mobile app usage with qualitative survey data to gain insights about mobile data usage patterns and the underlying reasons for user behavior concerning mobile data usage. Due to the limited availability of public free Wi-Fi and despite the relatively high cost of mobile data, we find that a typical township user's median mobile data usage is significantly more than Wi-Fi usage. As expected, and consistent with observations of mobile data usage in parts of South Africa with better resources, users tend to favor using Wi-Fi for streaming video applications, such as YouTube. Interestingly, however, unlike users in less resource-constrained settings, township users also consume significant mobile data to update mobile applications, as opposed to relying on Wi-Fi networks for application updates. These behaviors suggest that network and mobile application designers must pay more attention to data usage patterns on cellular networks to provide mobile network architectures that provide more cost-effective mechanisms for tasks such as application update.",
+        "topics": {
+            "HCI and Applications": true
+        },
+        "submission": {
+            "mimetype": "application\/pdf",
+            "sha1": "88ea6994c4ea045824a8ba5a208937c990fb6a82",
+            "timestamp": 1467415910,
+            "filename": "acmdev_mobile_usage_v5_final.pdf"
+        },
+        "final": {
+            "mimetype": "application\/pdf",
+            "sha1": "6eed5c71241d5e9e890c644b0c1814c92e0c526f",
+            "timestamp": 1475272813,
+            "filename": "acmdev_58.pdf"
+        },
+        "final_submitted": true,
+        "final_submitted_at": 1474887889,
+        "pc_conflicts": {
+            "bderenzi@cs.uct.ac.za": "collaborator",
+            "djohnson@csir.co.za": "author",
+            "mdensmore@cs.uct.ac.za": "author"
+        }
+    },
+    {
+        "id": 66,
+        "title": "Mobile Device Administration for Secure and Manageable Health Data Collection in Under-Resourced Areas",
+        "status": "submitted",
+        "submitted": true,
+        "submitted_at": 1467460811,
+        "authors": [
+            {
+                "email": "dd@dominicduggan.org",
+                "first": "D.",
+                "last": "Duggan",
+                "affiliation": "Stevens Institute of Technology",
+                "contact": true
+            },
+            {
+                "email": "abinyui1@gmail.com",
+                "first": "J. A.",
+                "last": "Muh",
+                "affiliation": "R4D International"
+            },
+            {
+                "email": "leonard.ndongo82@gmail.com",
+                "first": "L.",
+                "last": "Ndongo",
+                "affiliation": "R4D International"
+            },
+            {
+                "email": "jyao1@stevens.edu",
+                "first": "J.",
+                "last": "Yao",
+                "affiliation": "Stevens Institute of Technology"
+            },
+            {
+                "first": "L.",
+                "last": "Yu",
+                "affiliation": "Stevens Institute of Technology"
+            }
+        ],
+        "abstract": "Healthcare delivery in under-resourced areas is critical to the future economic health of these countries, and healthcare data collection is an essential part of managing this delivery.  The Medea system has been developed to support data collection on mobile devices, while addressing issues of manageability and security in healthcare data collection and delivery.  The Medea approach is based on a compiler (Aeetes) that generates new data collection apps from declarative specifications, a security architecture to protect the confidentiality of patient data in case of device compromise, and a supporting app infrastructure that supports deployment in settings without local server support.  Manageability is achieved by centralizing the management of the infrastructure, using remote management of mobile devices to provide IT support to deployments in relatively isolated and under-served locations.",
+        "topics": {
+            "Systems": true
+        },
+        "submission": {
+            "mimetype": "application\/pdf",
+            "sha1": "e2290857571ea0e6dfb286c26d07748baa48a295",
+            "timestamp": 1467492047,
+            "filename": "conf-acm.pdf"
+        },
+        "final": {
+            "mimetype": "application\/pdf",
+            "sha1": "7099ae5f8f4e9d8bd08e4960c7e4a2cd4de7c05e",
+            "timestamp": 1474723920,
+            "filename": "conf-acm-alt.pdf"
+        },
+        "final_submitted": true,
+        "final_submitted_at": 1474723792
+    },
+    {
+        "id": 68,
+        "title": "Claims-to-Patterns Approach to Leverage Mobile Interaction Design for Low-literacy Users",
+        "status": "submitted",
+        "submitted": true,
+        "submitted_at": 1467469309,
+        "authors": [
+            {
+                "email": "elefelious@yahoo.com",
+                "first": "Elefelious Getachew",
+                "last": "Belay",
+                "affiliation": "Addis Ababa University, Bahir Dar University",
+                "contact": true
+            },
+            {
+                "email": "mccricks@cs.vt.edu",
+                "first": "D. Scott",
+                "last": "McCrickard",
+                "affiliation": "Virginia Tech"
+            },
+            {
+                "email": "solomon.atnafu@aau.edu.et",
+                "first": "Solomon Atnafu",
+                "last": "Besufekad",
+                "affiliation": "Addis Ababa University"
+            }
+        ],
+        "abstract": "This paper presents a method to leverage mobile interaction design knowledge for low-literacy, moving from falsifiable hypotheses (claims) to actionable solutions (patterns). In prior work, claims and patterns have been used separately for different application areas and in different contexts.  This research asserts that the transition from claims to patterns will enhance the design value, leveraging claims for uncertain situations and inexplicit user behavior and patterns for proven solutions for recurrent problems. This paper examines how these two structures can be combined in a claims-to-patterns approach to leverage mobile interaction design for low-literacy. To demonstrate this method, an example that highlights how claims evolve into patterns through research and design is discussed.",
+        "topics": {
+            "HCI and Applications": true
+        },
+        "submission": {
+            "mimetype": "application\/pdf",
+            "sha1": "1324c1623c81342aa72aef866962908674e6b3e7",
+            "timestamp": 1467469309,
+            "filename": "Claims Inspired Interaction Pattern Development- Considering Mobile Interaction Design for Low-literacy Users V1.9.pdf"
+        },
+        "final": {
+            "mimetype": "application\/pdf",
+            "sha1": "5cd36b519bfeacc7e1c23c9712e6e36be0859c98",
+            "timestamp": 1474963732,
+            "filename": "Claims-to-Patterns Approach to Leverage Mobile Interaction Design for Low-Literacy Users V4.6.pdf"
+        },
+        "final_submitted": true,
+        "final_submitted_at": 1474963732
+    }
+]

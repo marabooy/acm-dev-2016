@@ -1,0 +1,1039 @@
+[
+    {
+        "id": 1,
+        "title": "Towards Cloudless Co-located Social Media on Android",
+        "status": "submitted",
+        "submitted": true,
+        "submitted_at": 1473083802,
+        "authors": [
+            {
+                "email": "adrian.holzer@epfl.ch",
+                "first": "Adrian",
+                "last": "Holzer",
+                "affiliation": "EPFL",
+                "contact": true
+            },
+            {
+                "email": "gabriel.detiberge@gmail.com",
+                "first": "Gabriel",
+                "last": "De Tiberge",
+                "affiliation": "EPFL"
+            },
+            {
+                "email": "denis.gillet@epfl.ch",
+                "first": "Denis",
+                "last": "Gillet",
+                "affiliation": "EPFL"
+            }
+        ],
+        "abstract": "Mobile devices have become ubiquitous, however they often do not equate with access to communication services. Indeed, many of the 60 million people forcibly displaced worldwide who have access to mobile devices, lack communication services due to lack of infrastructure or lack of Internet credits. In this research-in-progress, we provide the basis to create cloudless co-located social media on Android. To do so, we present a novel middleware solution called PadocAndroid, which allows multihop ad hoc communication between off-the-shelf Android devices. We also present experimental results and a proof-of-concept chat application to illustrate the usage of the middleware.",
+        "submission": {
+            "mimetype": "application\/pdf",
+            "sha1": "affecb9202c95c9ff768aa63751ccf1d706a02a9",
+            "timestamp": 1473083802,
+            "filename": "Padoc-DEV-submitted.pdf"
+        }
+    },
+    {
+        "id": 4,
+        "title": "Real-time Automated Surveys among Low-literate Masses using Voice-based Telephone Services",
+        "status": "submitted",
+        "submitted": true,
+        "submitted_at": 1472972252,
+        "authors": [
+            {
+                "email": "agha.ali.raza@gmail.com",
+                "first": "Agha Ali",
+                "last": "Raza",
+                "affiliation": "Information Technology University",
+                "contact": true
+            },
+            {
+                "email": "samia.razaq@itu.edu.pk",
+                "first": "Samia",
+                "last": "Razaq",
+                "affiliation": "Information Technology University"
+            },
+            {
+                "email": "amna.raja@itu.edu.pk",
+                "first": "Amna",
+                "last": "Raja",
+                "affiliation": "Information Technology University"
+            },
+            {
+                "email": "rizwan.naru@itu.edu.pk",
+                "first": "Rizwan",
+                "last": "Naru",
+                "affiliation": "Information Technology University"
+            },
+            {
+                "email": "ali.gibran@itu.edu.pk",
+                "first": "Ali",
+                "last": "Gibran",
+                "affiliation": "Information Technology University"
+            },
+            {
+                "email": "abdullah.sabri@itu.edu.pk",
+                "first": "Abdullah",
+                "last": "Sabri",
+                "affiliation": "Information Technology University"
+            },
+            {
+                "email": "haroon.niaz@itu.edu.pk",
+                "first": "Haroon",
+                "last": "Niaz",
+                "affiliation": "Information Technology University"
+            },
+            {
+                "email": "bilal.saleem@itu.edu.pk",
+                "first": "Muhammad Bilal",
+                "last": "Saleem",
+                "affiliation": "Information Technology University"
+            },
+            {
+                "email": "Saif.Umar@gmail.com",
+                "first": "Umar",
+                "last": "Saif",
+                "affiliation": "Information Technology University"
+            }
+        ],
+        "abstract": "This paper explores the use of Interactive Voice Response (IVR) systems for automatic surveys, data validation and prescreening. We report a deployment aimed at employing voice-based, telephone services to conduct automated, structured interviews of low-literate users and to advertise relevant development-related services to them. Survey calls were placed to 67,000 recipients of vocational training to validate their phone numbers and to find out their current job status. Of these, 45,500 answered these calls and 11,500 (25%) responded to the survey questions. Manually conducted follow-up interviews found more than 70% of the survey results to be consistent and also revealed the impact of phone sharing (among family members), call timing, simplicity of interface and surveyor-participant interpretation mismatch regarding certain survey questions on participant involvement and validity of survey results.",
+        "submission": {
+            "mimetype": "application\/pdf",
+            "sha1": "4d6528561d68111e5c83592d82dfd1d17443b81c",
+            "timestamp": 1472972252,
+            "filename": "PSDF-NSIS-1.8.pdf"
+        }
+    },
+    {
+        "id": 5,
+        "title": "Ensuring Feedback Data Privacy in the Context of Developing Countries",
+        "status": "submitted",
+        "submitted": true,
+        "submitted_at": 1473004538,
+        "authors": [
+            {
+                "email": "tahsinahashem@gmail.com",
+                "first": "Tahsina",
+                "last": "Hashem",
+                "affiliation": "Jahangirnagar University",
+                "contact": true
+            },
+            {
+                "email": "tanzimahashem@gmail.com",
+                "first": "Tanzima",
+                "last": "Hashem",
+                "affiliation": "Bangladesh University of Engineering and Technology",
+                "contact": true
+            },
+            {
+                "email": "anindya_iqbal@yahoo.com",
+                "first": "Anindya",
+                "last": "Iqbal",
+                "affiliation": "Bangladesh University of Engineering and Technology"
+            }
+        ],
+        "abstract": "Protecting user privacy has become an important research problem in recent years. We introduce the first approach for collecting feedback and opinions from workers about the poor workplace condition in a privacy preserving manner and empower them at their workplaces. In our system, a worker's feedback remains hidden in an aggregate form but at the end the actual scenario of the workplace could be revealed. Thus, our system protects workers from facing troubles and losing jobs for sharing their sufferings to the public. On the other hand, the revealed feedback can motivate the management authority to improve the quality of their workplaces in the fear of losing trust and reputation. We propose two techniques: in one technique, workers in cooperation with the server hide their individual feedback from other and in other technique, workers protect their privacy in a crowdsourced manner. We show a comparative analysis of our techniques with experiments.",
+        "submission": {
+            "mimetype": "application\/pdf",
+            "sha1": "401d0054ea3c1e17454dfbe821001528fa1a66c2",
+            "timestamp": 1473004538,
+            "filename": "sig-alternate-sample_ReadyForSubmit_ACMDEV.pdf"
+        }
+    },
+    {
+        "id": 8,
+        "title": "What We Breathe As We Commute: From the Perspective of a Developing Country",
+        "status": "submitted",
+        "submitted": true,
+        "submitted_at": 1473863770,
+        "authors": [
+            {
+                "email": "tusherchakraborty@matholympiad.org.bd",
+                "first": "Tusher",
+                "last": "Chakraborty",
+                "affiliation": "Bangladesh University of Engineering and Technology",
+                "contact": true
+            },
+            {
+                "email": "arefin612@gmail.com",
+                "first": "Taslim Arefin",
+                "last": "Khan",
+                "affiliation": "Bangladesh University of Engineering and Technology",
+                "contact": true
+            },
+            {
+                "email": "mahmudanaznin@cse.buet.ac.bd",
+                "first": "Mahmuda",
+                "last": "Naznin",
+                "affiliation": "Bangladesh University of Engineering and Technology",
+                "contact": true
+            },
+            {
+                "email": "hydercho@msu.edu",
+                "first": "Chowdhury Sayeed",
+                "last": "Hyder",
+                "affiliation": "Michigan State University",
+                "contact": true
+            },
+            {
+                "email": "alim_razi@cse.buet.ac.bd",
+                "first": "A. B. M. Alim Al",
+                "last": "Islam",
+                "affiliation": "Bangladesh University of Engineering and Technology",
+                "contact": true
+            }
+        ],
+        "abstract": "Air pollution is a serious threat to public health. The city residents often spend significant time in public transports owing to long traffic tailbacks. So, the air quality inside public transports is an important factor that needs to be considered for the welfare of city residents. In this paper, we study the air quality inside public transports in a metropolitan city from the perspective of a developing country. To capture the diversity of city life, we consider the variation in traffic pattern and public transports, and analyze the data in temporal and spatial domain. Our custom-built sensing module collects data at regular intervals and detects the presence of pollutants above recommendation level. Our temporal analysis shows that concentration of air pollutants inside different public transports do not remain consistent in peak and off-peak hours. Our analysis also reveals that public transports with lower fares are more exposed to air pollutants than those with higher fares.",
+        "submission": {
+            "mimetype": "application\/pdf",
+            "sha1": "51e26dd7b57c6afed3debf1bb6a3a89380d3df4a",
+            "timestamp": 1474065784,
+            "filename": "acmdev.pdf"
+        }
+    },
+    {
+        "id": 9,
+        "title": "A Cloud-based Dynamic Waste Management System for Smart Cities",
+        "status": "submitted",
+        "submitted": true,
+        "submitted_at": 1473178214,
+        "authors": [
+            {
+                "email": "sadiasharmin@cse.buet.ac.bd",
+                "first": "Sadia",
+                "last": "Sharmin",
+                "affiliation": "Bangladesh University of Engineering and Technology",
+                "contact": true
+            },
+            {
+                "email": "stahsin.cse@gmail.com",
+                "first": "Sikder Tahsin",
+                "last": "Al-Amin",
+                "affiliation": "Bangladesh University of Engineering and Technology",
+                "contact": true
+            }
+        ],
+        "abstract": "A smart city is a vision to adopt multiple information and communication technology (ICT) solutions in the management of public affairs. Waste management  problem is acute in the cities and urban areas now a days. Number of trucks roaming around, collecting waste at any time, excessive manpower requirement and inefficient monitoring are some of the difficulties we face with the conventional waste collection approach. The purpose of our work is to introduce a smart and intelligent waste management system that is able to handle the process dynamically and cost effectively. In our approach weight and volume of waste thrown in the waste bins are collected by economical sensors and then sent to cloud server using a micro-controller and GPRS. This data is used to find the waste collection schedule to maximize the collection. Location of vehicles and waste bins are used to find the shortest possible collection route for each truck which is implemented by Ant Colony Optimization(ACO) technique. The system is adaptable to dynamic changes i.e. routes blocked during waste collection process. The whole process can be monitored centrally and thus provide a high quality service to the citizens of a smart city.",
+        "submission": {
+            "mimetype": "application\/pdf",
+            "sha1": "ad246d7eb703b52dd8395ae87855157a3c86daef",
+            "timestamp": 1473178214,
+            "filename": "a dynamic waste management for smart cities.pdf"
+        }
+    },
+    {
+        "id": 10,
+        "title": "Gamifying Knowledge Sharing in the Humanitarian Context",
+        "status": "submitted",
+        "submitted": true,
+        "submitted_at": 1473189738,
+        "authors": [
+            {
+                "email": "adrian.holzer@epfl.ch",
+                "first": "Adrian",
+                "last": "Holzer",
+                "affiliation": "EPFL",
+                "contact": true
+            },
+            {
+                "email": "bruno.kocher@unil.ch",
+                "first": "Bruno",
+                "last": "Kocher",
+                "affiliation": "University of Lausanne"
+            },
+            {
+                "email": "isabelle.voneche-cardia@epfl.ch",
+                "first": "Isabelle Vonèche",
+                "last": "Cardia",
+                "affiliation": "EPFL"
+            },
+            {
+                "email": "jorge.mazuze@geneva.msf.org",
+                "first": "Jorge",
+                "last": "Mazuze",
+                "affiliation": "Médecins Sans Frontières"
+            },
+            {
+                "email": "samuel.bendahan@unil.ch",
+                "first": "Samuel",
+                "last": "Bendahan",
+                "affiliation": "University of Lausanne"
+            },
+            {
+                "email": "denis.gillet@epfl.ch",
+                "first": "Denis",
+                "last": "Gillet",
+                "affiliation": "EPFL"
+            }
+        ],
+        "abstract": "Knowledge management is particularly important in humanitarian organization operating in situations of emergency. One of the challenges in designing systems to support knowledge management is to increase knowledge sharing.\r\nIn this research-in-progress we explore attitudes of humanitarian workers of Médecins Sans Frontières towards knowledge sharing and propose novel designs to visualize individual and group contributions on a knowledge management system.",
+        "submission": {
+            "mimetype": "application\/pdf",
+            "sha1": "b96dfbf3e3fae60edd6fac46f0229f45ceea603e",
+            "timestamp": 1473257885,
+            "filename": "DEV CROSS - Submitted.pdf"
+        }
+    },
+    {
+        "id": 13,
+        "title": "Stochastic Simulator for Smart Microgrid Planning",
+        "status": "submitted",
+        "submitted": true,
+        "submitted_at": 1473232286,
+        "authors": [
+            {
+                "email": "jthornbu@andrew.cmu.edu",
+                "first": "Jesse",
+                "last": "Thornburg",
+                "affiliation": "Carnegie Mellon University",
+                "contact": true
+            },
+            {
+                "email": "krogh@rwanda.cmu.edu",
+                "first": "Bruce",
+                "last": "Krogh",
+                "affiliation": "Carnegie Mellon University"
+            },
+            {
+                "email": "ustun@cmu.edu",
+                "first": "Taha Selim",
+                "last": "Ustun",
+                "affiliation": "Carnegie Mellon University"
+            }
+        ],
+        "abstract": "Developing world microgrids often balance insufficient supply with growing, unpredictable demand. Deterministic and proba-bilistic simulators exist to model these microgrids, and each focuses on different technical aspects.  With the addition of smart meters into microgrids, monitoring and control is now available at high granularity, which enriches microgrid planning and operation. This research is designing a new simulator to model smart microgrids with discrete probability distributions as supply and demand inputs. In our model, smart meters allow real-time power clipping for demand side management, effec-tively smoothing the system load curve as needed. To compare clipping schemes for grid operation and generation mixes for planning, we aggregate inputs by convolution then compute expected energy sold and probability of avoiding power cuts. The simulator plots these values for different combinations of power clipping threshold and number of customers clipped.",
+        "submission": {
+            "mimetype": "application\/pdf",
+            "sha1": "64283158a39f083195b8b17e413bd6f77f798e21",
+            "timestamp": 1473232286,
+            "filename": "ACM_DEV_abstract.pdf"
+        }
+    },
+    {
+        "id": 15,
+        "title": "Faster Evacuation after Disaster: Finding Alternative Routes using Probable Human Behavior",
+        "status": "submitted",
+        "submitted": true,
+        "submitted_at": 1473273186,
+        "authors": [
+            {
+                "email": "anurata23@gmail.com",
+                "first": "Anurata Prabha",
+                "last": "Hridi",
+                "affiliation": "Undergraduate student, Department of Computer Science and Engineering, Bangladesh University of Engineering and Technology",
+                "contact": true
+            },
+            {
+                "email": "dipto.cse.buet@gmail.com",
+                "first": "Dipto",
+                "last": "Das",
+                "affiliation": "Undergraduate student, Department of Computer Science and Engineering, Bangladesh University of Engineering and Technology"
+            },
+            {
+                "email": "monowaranjum@gmail.com",
+                "first": "Md Monowar",
+                "last": "Anjum",
+                "affiliation": "Undergraduate student, Department of Computer Science and Engineering, Bangladesh University of Engineering and Technology"
+            },
+            {
+                "email": "dastanmay84@yahoo.com",
+                "first": "Tanmay",
+                "last": "Das",
+                "affiliation": "Lecturer, Department of Civil Engineering, Sonargaon University"
+            }
+        ],
+        "abstract": "This poster presents an app that can help disaster affected communities in finding efficient and safe evacuation routes to reduce the loss of human and resources, both during and after a disaster hit. This proposed app will navigate people seeking evacuation through suitable routes based on geographical condition, structural vulnerability, disaster severity, traffic density, human mobility, etc. The choice of most effective and safe evacuation paths primarily relies on stochastic probability and requires frequently updated data. In order to achieve this, the app uses real time GPS data by simulating the movement pattern of its online users as well as the previous movement patterns of its offline users. This simulation process will find out the less congested and safer routes for faster traversal. Users can use these path suggestions to safely drive themselves out of the disaster stricken area. In case of a user being offline, this app will use data stored on the device to suggest evacuation routes based on human mobility pattern. The implementation of this idea will help the app users evacuate safely and quickly, thus minimizing human casualty due to disaster fatality.",
+        "submission": {
+            "mimetype": "application\/pdf",
+            "sha1": "0ca7067536eca7dc385db357628597d9e35746e3",
+            "timestamp": 1473273224,
+            "filename": "paper.pdf"
+        }
+    },
+    {
+        "id": 16,
+        "title": "Towards Making An Anonymous and One-Stop Online Reporting System for Third-World Countries",
+        "status": "submitted",
+        "submitted": true,
+        "submitted_at": 1473268625,
+        "authors": [
+            {
+                "email": "tarik.toha@gmail.com",
+                "first": "Tarik Reza",
+                "last": "Toha",
+                "affiliation": "Student",
+                "contact": true
+            },
+            {
+                "email": "moyeen.neeyom.crv@gmail.com",
+                "first": "Md. Moyeen",
+                "last": "Uddin",
+                "affiliation": "Student"
+            },
+            {
+                "email": "reza.uranium@gmail.com",
+                "first": "MD. Nayeem",
+                "last": "Reza",
+                "affiliation": "Student"
+            },
+            {
+                "email": "ropymaruf2010@gmail.com",
+                "first": "Md. Abdullah Al",
+                "last": "Maruf",
+                "affiliation": "Student"
+            },
+            {
+                "email": "amitchakraborty074@gmail.com",
+                "first": "Amit",
+                "last": "Chakraborty",
+                "affiliation": "Student"
+            },
+            {
+                "email": "razi_bd@yahoo.com",
+                "first": "A. B. M. Alim Al",
+                "last": "Islam",
+                "affiliation": "Assistant Professor"
+            }
+        ],
+        "abstract": "Under-reporting is one of the main causes of failure to solve the social problems in third world countries which obstructs the national development. To minimize under-reporting, an one-stop online reporting system is yet to be developed for general people of third world countries where people can report any types of problems in an anonymous manner. Therefore, in this paper, we propose a generic online reporting system where one can submit report anonymously, even without registration. We propagate the reports to the respective authorities such as law enforcement agencies, anti-corruption commission, city-corporation, policy makers, human rights commissions, etc., after reviewing process. We also publish the reports in our site without disclosing the registered reporters' identities to collect the public opinions about the reports.",
+        "submission": {
+            "mimetype": "application\/pdf",
+            "sha1": "198d2527e35231dec1c682be34391851d13bc2b6",
+            "timestamp": 1473291788,
+            "filename": "uReporter.pdf"
+        }
+    },
+    {
+        "id": 18,
+        "title": "ClickHealth, an App to Provide Info on Healthcare to the Homeless",
+        "status": "submitted",
+        "submitted": true,
+        "submitted_at": 1473285292,
+        "authors": [
+            {
+                "email": "erinsong101@gmail.com",
+                "first": "Erin",
+                "last": "Song",
+                "affiliation": "Cupertino High School"
+            },
+            {
+                "email": "pujam1231@gmail.com",
+                "first": "Puja",
+                "last": "Maheshwari",
+                "affiliation": "Saratoga High School"
+            },
+            {
+                "email": "dlewis@scu.edu",
+                "first": "Daniel",
+                "last": "Lewis",
+                "affiliation": "Santa Clara University",
+                "contact": true
+            },
+            {
+                "email": "sfigueira@scu.edu",
+                "first": "Silvia",
+                "last": "Figueira",
+                "affiliation": "Santa Clara University",
+                "contact": true
+            }
+        ],
+        "abstract": "Our Android application, ClickHealth, helps the homeless locate the nearest health care facilities to help treat their health needs. There were two stages to developing the app: researching\/planning and developing. Our app has numerous features including a Google Maps view, markers which show the closest hospitals and drugstores, info pages about hospitals, and a favorites tab. ClickHealth provides all important information about each hospital in a convenient fashion, and without using too much data. ClickHealth will help reduce the number of homeless who are in need of health care because of the way it guides users to facilities that accept walk-in patients and allow appointments to be made over the phone.",
+        "submission": {
+            "mimetype": "application\/pdf",
+            "sha1": "7c0cf2a524469cfa344818d400a58bbe62970d41",
+            "timestamp": 1473285292,
+            "filename": "ClickHealth.pdf"
+        }
+    },
+    {
+        "id": 19,
+        "title": "Housing4All, Helping the Housing Process in Silicon Valley",
+        "status": "submitted",
+        "submitted": true,
+        "submitted_at": 1473285313,
+        "authors": [
+            {
+                "email": "Jacksonlanecooper@comcast.net",
+                "first": "Jack",
+                "last": "Cooper",
+                "affiliation": "San Rafael High School"
+            },
+            {
+                "email": "c.hunter17@icloud.com",
+                "first": "Christian",
+                "last": "Hunter",
+                "affiliation": "Bellarmine College Prep"
+            },
+            {
+                "email": "rushilmehra@yahoo.com",
+                "first": "Rushil",
+                "last": "Mehra",
+                "affiliation": "Bellarmine College Prep"
+            },
+            {
+                "email": "rishabhm.meswani@gmail.com",
+                "first": "Rishabh",
+                "last": "Meswani",
+                "affiliation": "Irvington High School",
+                "contact": true
+            },
+            {
+                "email": "pranad.reddy1@gmail.com",
+                "first": "Pranad",
+                "last": "Reddy",
+                "affiliation": "Monta Vista High School"
+            },
+            {
+                "email": "dlewis@scu.edu",
+                "first": "Daniel",
+                "last": "Lewis",
+                "affiliation": "Santa Clara University",
+                "contact": true
+            },
+            {
+                "email": "sfigueira@scu.edu",
+                "first": "Silvia",
+                "last": "Figueira",
+                "affiliation": "Santa Clara University",
+                "contact": true
+            }
+        ],
+        "abstract": "Homelessness is a large problem in the United States. One of the best solutions for this large population of unsheltered individuals lies in affordable housing, as it allows for individuals to gain substantial footing on a life free from poverty in a safe environment. However, affordable housing complexes are not only very scarce, but also the organizations that own them do not communicate frequently. Because of this, application windows are scattered and the housing applications are extremely fragmented, with each application containing different questions. Our team has designed a mobile solution in collaboration with Catholic Charities to simplify the process of finding and applying to affordable housing in Santa Clara County. The Android application allows users to find affordable housing and apply to any number of housing complexes with one unified application that merges questions from individual applications. However, to be truly effective in streamlining the affordable housing application process, a coalition must be established between all affordable housing organizations in the Santa Clara County Continuum of Care. By doing so, the application can expand to informing tenants of available applicants and more effectively informing users of when housing units are available.",
+        "submission": {
+            "mimetype": "application\/pdf",
+            "sha1": "575ef5e3ceca77e5178919ffcf0d92783b668e01",
+            "timestamp": 1473285313,
+            "filename": "Housing4All.pdf"
+        }
+    },
+    {
+        "id": 20,
+        "title": "Compressing SMS Messages for Lowering Communication Costs in Rural Africa",
+        "status": "submitted",
+        "submitted": true,
+        "submitted_at": 1473285685,
+        "authors": [
+            {
+                "email": "rramankutty@scu.edu",
+                "first": "Roshan",
+                "last": "Ramankutty",
+                "affiliation": "Santa Clara University",
+                "contact": true
+            },
+            {
+                "email": "sfigueira@scu.edu",
+                "first": "Silvia",
+                "last": "Figueira",
+                "affiliation": "Santa Clara University",
+                "contact": true
+            }
+        ],
+        "abstract": "Traditional compression algorithms appear to be largely unsuccessful with regards to short strings. In developing countries without connectivity to the web and data infrastructure, SMS remains one of the few ways of handling text-based information. With SMS service providers typically charging for SMS messages on a per-message basis, there exists a need to provide some form of short string compression, specifically with regards to highly structured data. This paper seeks to answer whether or not dictionary structures produce better results of compression than traditional algorithms with respect to highly structured data. To determine whether or not this approach would work, we developed a configurable parser that, when properly configured, accepts the various forms of structured data as provided by the client. We then compare the results to traditional compression mechanisms and measure the success.",
+        "submission": {
+            "mimetype": "application\/pdf",
+            "sha1": "a04172acb634d943fa608e39e4b57b83c2a43ba5",
+            "timestamp": 1473285685,
+            "filename": "compression.pdf"
+        }
+    },
+    {
+        "id": 21,
+        "title": "Polygot: Going beyond database driven and syntax-based translation",
+        "status": "submitted",
+        "submitted": true,
+        "submitted_at": 1473292905,
+        "authors": [
+            {
+                "email": "islamadnan2265@gmail.com",
+                "first": "Md. Adnanul",
+                "last": "Islam",
+                "contact": true
+            },
+            {
+                "email": "razi_bd@yahoo.com",
+                "first": "Dr. A. B. M. Alim Al",
+                "last": "Islam"
+            }
+        ],
+        "abstract": "A study of improving the efficiency and performance of language translation process by a translator. The goal of this research topic is to develop efficient translation system for any language by improving the previous researches on language translation and related topics. Although, a number of researches are done in different areas such as Bangla keyboard layout design, English to Bangla translator etc., very few researches are done to translate Bangla text to English. To develop an efficient translation system is very important. However, it is really expensive as it requires a huge amount of time and resources. In all languages there are many words that may have multiple meanings and also some sentence may have multiple grammar structures to express the same meaning. Therefore, it is a great challenge to do the right semantic analysis. However it is very important to have a translation system which can compute various possible outputs in reasonable time and space.",
+        "submission": {
+            "mimetype": "application\/pdf",
+            "sha1": "481d99261eccafaeef33495d5d3ef6b9ca2741aa",
+            "timestamp": 1475544188,
+            "filename": "dev16posters-paper21.pdf"
+        }
+    },
+    {
+        "id": 22,
+        "title": "Digital Library Appropriation in the context of Sub-Saharan Countries: the Case of eGranary Digital Library Implementation",
+        "status": "submitted",
+        "submitted": true,
+        "submitted_at": 1473305574,
+        "authors": [
+            {
+                "email": "ngafinowitz@unc.edu",
+                "first": "Nicola",
+                "last": "Gafinowitz",
+                "affiliation": "University of North Carolina",
+                "contact": true
+            }
+        ],
+        "abstract": "Users of information and communication technologies (ICT) in the developing world encounter these technologies within their own situated, dynamic contexts. Their interactions with the technology are explicitly or implicitly affected by their political, cultural, infrastructural and socio-economic environment. In this poster, I present findings from ongoing sets of interviews with eGranary intermediary donors and agents, operating in seven sub- Saharan countries. eGranary is an offline digital library designed for  environments with irregular or no internet connectivity. However little is known of the ICT's impact on communities, users’ knowledge practices, or its wider effects, e.g. on pedagogy. Prior to establishing communications with end users, this study takes a preparatory step of consulting with mediators in the field. These interviewees are familiar with eGranary’s technology and their users’ contexts, expectations and needs.  The ultimate aim is to incorporate user opinions into eGranary re-designs. Findings from this research will contribute to better informing the structure, content and tone of planned future communications and questionnaires.",
+        "submission": {
+            "mimetype": "application\/pdf",
+            "sha1": "cff10b460426cc70adec4480e8668f9a57629854",
+            "timestamp": 1473998975,
+            "filename": "eGranary_Implementation.pdf"
+        }
+    },
+    {
+        "id": 24,
+        "title": "Designing a Farmer Interface for Smart Irrigation in Developing Countries",
+        "status": "submitted",
+        "submitted": true,
+        "submitted_at": 1474057308,
+        "authors": [
+            {
+                "email": "abyishimo@Rwanda.cmu.edu",
+                "first": "Audace",
+                "last": "Byishimo",
+                "affiliation": "Carnegie Mellon University (Alumni)"
+            },
+            {
+                "email": "aminata@ece.cmu.edu",
+                "first": "Aminata A.",
+                "last": "Garba",
+                "affiliation": "Carnegie Mellon University",
+                "contact": true
+            }
+        ],
+        "abstract": "We designed an application for interfacing a farmer and the communications and control systems when automated irrigation is used. The objective is to minimize the farmer’s direct interaction with the technical systems. The proposed application allows visualization and compilation of the data collected by the sensors used in a smart agriculture system. It can also allow the farmer or an authorized third party to modify the irrigation parameters without knowledge of and\/or changing the irrigation hardware system, given them control back on the irrigation when required. We use GSM communication networks due to theirs widespread implementation in developing countries, their extended coverage and relatively low cost when compared to other access technologies, e.g., wired Ethernet, in these countries.",
+        "submission": {
+            "mimetype": "application\/pdf",
+            "sha1": "a237c281c027aa2b176a866cbd98929cc9e02925",
+            "timestamp": 1474057191,
+            "filename": "AminataGarba_ACMDev.pdf"
+        }
+    },
+    {
+        "id": 25,
+        "title": "Crowd Powered Media Delivery: Facilitating Ubiquitous Device-to-Device File Transfers",
+        "status": "submitted",
+        "submitted": true,
+        "submitted_at": 1474003847,
+        "authors": [
+            {
+                "email": "t-roscot@microsoft.com",
+                "first": "Colin",
+                "last": "Scott",
+                "affiliation": "Microsoft Research India",
+                "contact": true
+            }
+        ],
+        "abstract": "Device-to-device file transfers are pervasive in many emerging markets, but\r\nusers typically only share content with close friends or informal media vendors. We seek to facilitate ubiquitous device-to-device file transfers beyond one's immediate social network. This extended abstract outlines the research challenges we need to address and our initial plans for addressing  them.",
+        "submission": {
+            "mimetype": "application\/pdf",
+            "sha1": "4c7e3cbbfde27e3978db98c6046f8f7f156231f9",
+            "timestamp": 1474003916,
+            "filename": "main.pdf"
+        }
+    },
+    {
+        "id": 29,
+        "title": "Using Co-Design to Discern and Overcome Barriers to Employment in Cape Town",
+        "status": "submitted",
+        "submitted": true,
+        "submitted_at": 1474052367,
+        "authors": [
+            {
+                "email": "mdensmore@cs.uct.ac.za",
+                "first": "Melissa",
+                "last": "Densmore",
+                "affiliation": "University of Cape Town"
+            },
+            {
+                "email": "jgdgra001@myuct.ac.za",
+                "first": "Grace",
+                "last": "Jegede",
+                "affiliation": "University of Cape Town",
+                "contact": true
+            }
+        ],
+        "abstract": "In this paper we describe the co-design process to uncover the unemployment problem, in Cape Town, South Africa. In this research we engaged with unemployed or underemployed individuals at two different NGO sites in Cape Town. We engage, primarily with current and former students of two job readiness programmes and supplement our work with input from intermediary trainers. We outline our use of co-design under the umbrella of Participatory Design and discuss our findings, in resonance with the different documentations of benefits of intermediaries.  Our findings highlight the benefits of working with intermediaries from the NGOs and the benefit of working with NGOs themselves as embedded community partners. Additionally we show that co-design can be used to successfully uncover issues around a problem such as unemployment.",
+        "submission": {
+            "mimetype": "application\/pdf",
+            "sha1": "87ce3fece5dc1663e813b528f2e18e2ed7907187",
+            "timestamp": 1474070970,
+            "filename": "dev2016-poster-unemployment-v11.pdf"
+        }
+    },
+    {
+        "id": 31,
+        "title": "Power Attack : An Emerging Threat in Health-care Applications Using Medical Body Area Networks",
+        "status": "submitted",
+        "submitted": true,
+        "submitted_at": 1474044742,
+        "authors": [
+            {
+                "email": "novia@cse.uiu.ac.bd",
+                "first": "Novia",
+                "last": "Nurain",
+                "affiliation": "United International University",
+                "contact": true
+            },
+            {
+                "email": "razi_bd@yahoo.com",
+                "first": "A. B. M. Alim Al",
+                "last": "Islam",
+                "affiliation": "BUET"
+            }
+        ],
+        "abstract": "Recent rise in aged population and chronic diseases, is placing increasing pressure on health care expenditure. Ubiquitous health care is regarded as a potential driver in reducing such health expenditure. Advancement in wireless communication and sensor technologies permit the real-time acquisition, transmission and processing of critical medical information for ubiquitous health-care applications. Hence, medical body area networks (MBANs) emerge as key technology to facilitate ubiquitous health-care services. However, energy restriction of micro-battery of a sensor device holds back the development of MBANs and also makes MBANs vulnerable to different malicious attacks. In this paper, we introduce a new attack entitled Power Attack exploiting the\r\npower constraint of sensor devices. Power attack forces a sensor to die off due to lack of power supply. Besides, we also propose counter measure for power attack. Finally, we exhibit efficacy of our proposed counter measure using empirical simulation.",
+        "submission": {
+            "mimetype": "application\/pdf",
+            "sha1": "341984fb81556c689127d796d530dd73dd710a82",
+            "timestamp": 1474044742,
+            "filename": "main.pdf"
+        }
+    },
+    {
+        "id": 32,
+        "title": "The role of the customers in the diffusion of alternative electricity supply solution in Bangalore: A case study of SELCO bridging its rural solution to urban actors",
+        "status": "submitted",
+        "submitted": true,
+        "submitted_at": 1474046699,
+        "authors": [
+            {
+                "email": "akil.amiraly@polytechnique.edu",
+                "first": "AMIRALY",
+                "last": "Akil",
+                "affiliation": "i3-CRG, Ecole polytechnique CNRS, Université Paris-Saclay",
+                "contact": true
+            },
+            {
+                "email": "haruki.sawamura@polytechnique.edu",
+                "first": "SAWAMURA",
+                "last": "Haruki",
+                "affiliation": "i3-CRG, Ecole polytechnique CNRS, Université Paris-Saclay",
+                "contact": true
+            }
+        ],
+        "abstract": "This article aims to address two critical research questions: how a social enterprise identifies the local actors for the diffusion of its service and what is the role of these actors to widely spread the solutions? The article highlights the emergence of urban\r\ncustomers willing to use alternative electricity supplies developed by a small yet visionary company in the context of discontinuous public electricity supply in Bangalore, India. The case of SELCO helps us to illustrate this market evolution of solar photovoltaic systems. We observe a built-in corporate entrepreneurship culture\r\nof the organization playing an important role in bridging projects into a new context by creating an interactive relationship with local actors (clients). A small number of individuals in the organization starts working to understand the needs of the client,\r\nand slowly identifies new meanings of its service in an urban context recently explored as a market. The research identifies how these off-grid services developed by SELCO initially designed for very poor rural customers are slowly reaching the urban uppermiddle class customers attracted by its practical use and financial incentive. This demonstrated development of a niche market constitutes an early signal of the emergence of a social group willing to change its consumption behavior and contribute to the environment through their day-to-day activity.",
+        "submission": {
+            "mimetype": "application\/pdf",
+            "sha1": "2a15621cad80e741fec6ea648b582d1edce87985",
+            "timestamp": 1474046699,
+            "filename": "Akil_Haruki_Poster.pdf"
+        }
+    },
+    {
+        "id": 33,
+        "title": "Sentiment analysis of controversial topics on Pakistan’s Twitter user-base",
+        "status": "submitted",
+        "submitted": true,
+        "submitted_at": 1474047163,
+        "authors": [
+            {
+                "email": "bscs13026@itu.edu.pk",
+                "first": "Sarim",
+                "last": "Zafar",
+                "affiliation": "Information Technology University",
+                "contact": true
+            },
+            {
+                "email": "bscs13047@itu.edu.pk",
+                "first": "Usman",
+                "last": "Sarwar",
+                "affiliation": "Information Technology University",
+                "contact": true
+            },
+            {
+                "email": "szuhg2@cam.ac.uk",
+                "first": "Zafar",
+                "last": "Gilani",
+                "affiliation": "University of Cambridge",
+                "contact": true
+            },
+            {
+                "email": "junaid.qadir@itu.edu.pk",
+                "first": "Junaid",
+                "last": "Qadir",
+                "affiliation": "Information Technology University",
+                "contact": true
+            }
+        ],
+        "contacts": [
+            {
+                "email": "zafar.gilani@cl.cam.ac.uk",
+                "first": "Zafar",
+                "last": "Gilani",
+                "affiliation": "University of Cambridge"
+            }
+        ],
+        "abstract": "Twitter has largely become a central online social network for arguments on various global controversial topics. Detecting and analysing such topics could prove to be beneficial in understanding the sentiments of trending topics in developing regions. In this paper, we perform a systematic sentimental study of trending controversial topics on Pakistan's Twitter user-base. From the data collected we build retweet graphs, partition graphs into communities, measure community influence, and label the communities as 'for' or 'against' per topic. To the best of our knowledge this is the first work to categorise and study sentiments attached to controversial topics in a developing region.",
+        "submission": {
+            "mimetype": "application\/pdf",
+            "sha1": "95578514f48ae54fa489886b679905d7a044fd41",
+            "timestamp": 1474069646,
+            "filename": "main.pdf"
+        }
+    },
+    {
+        "id": 34,
+        "title": "MDB: A Metadata Tracking Microcontroller Micro-Database",
+        "status": "submitted",
+        "submitted": true,
+        "submitted_at": 1474069553,
+        "authors": [
+            {
+                "email": "mtgibson@berkeley.edu",
+                "first": "Marsalis T.",
+                "last": "Gibson",
+                "affiliation": "EECS, UC Berkeley"
+            },
+            {
+                "email": "javirosa@eecs.berkeley.edu",
+                "first": "Javier",
+                "last": "Rosa",
+                "affiliation": "EECS, UC Berkeley",
+                "contact": true
+            },
+            {
+                "email": "brewer@berkeley.edu",
+                "first": "Eric A.",
+                "last": "Brewer",
+                "affiliation": "EECS, UC Berkeley"
+            }
+        ],
+        "abstract": "This work in progress explores a database designed to enable data sharing on custom hardware data collection devices and prototypes. We target the Arduino hardware abstraction layer because of its ease of use and community support and low cost compared to using off the shelf devices. Additionally, other projects and systems frequently are based on the Arduino or Wiring framework such as ODK’s FoneAstra, the Open Energy Monitor, and the Grove system of sensors. However, such open source hardware currently does not have a framework that enables ease of integration into larger data collection systems and sharing of sensor data from local to remote storage. To address the issue, we propose a solution based on a small database usable on the Arduino platform for handling a large number of sensors that would integrate into the Mezuri data collection system. The database is designed to be fit within the memory constraints on a microcontroller while sensor data with relatively few fields per reading. This framework enables users in emerging regions to directly measure physical quantities as well as indirectly measure human behavior in future development projects involving direct sensing. The database can be used by a non-expert. In particular, we investigate the qualities that a technically inclined social scientist would look for when storing such data on microcontrollers. To enable Mezuri integration we support metadata as a first class object accessible with additional utility functions and native synchronization support.",
+        "submission": {
+            "mimetype": "application\/pdf",
+            "sha1": "a4edffaa3c9933479f2c4c41a2f56ef11d58c3aa",
+            "timestamp": 1474069554,
+            "filename": "ACMDevv1.pdf"
+        }
+    },
+    {
+        "id": 35,
+        "title": "Design Methods to Reduce Technology Fear and Solicit Feedback from Lady Health Workers (LHWs) in Pakistan",
+        "status": "submitted",
+        "submitted": true,
+        "submitted_at": 1474056565,
+        "authors": [
+            {
+                "email": "ab133@itu.edu.pk",
+                "first": "Amna",
+                "last": "Batool",
+                "affiliation": "Information Technology University (ITU)",
+                "contact": true
+            },
+            {
+                "email": "umair.anwar@itu.edu.pk",
+                "first": "Muhammad Umair",
+                "last": "Anwar",
+                "affiliation": "Information Technology University (ITU)"
+            },
+            {
+                "email": "bscs13033@itu.edu.pk",
+                "first": "Ayesha",
+                "last": "Asghar",
+                "affiliation": "Information Technology University (ITU)"
+            },
+            {
+                "email": "bscs13058@itu.edu.pk",
+                "first": "Tayeba",
+                "last": "Tariq",
+                "affiliation": "Information Technology University (ITU)"
+            },
+            {
+                "email": "bscs14064@itu.edu.pk",
+                "first": "Muhammad Mohsin",
+                "last": "Badar",
+                "affiliation": "Information Technology University (ITU)"
+            },
+            {
+                "email": "bscs13060@itu.edu.pk",
+                "first": "Iqra",
+                "last": "Shahzad",
+                "affiliation": "Information Technology University (ITU)"
+            },
+            {
+                "email": "Mustafa.naseem@colorado.edu",
+                "first": "Mustafa",
+                "last": "Naseem",
+                "affiliation": "ATLAS Institute, University of Colorado"
+            }
+        ],
+        "abstract": "This paper describes initial user research to understand key work-related problems that Lady Health Workers (LHWs) face in their day-to-day duties, identification of technology-based solutions to their ICT addressable problems, and to identify strategies to make them comfortable with the use of technology in their work. We conducted 3 rounds of interviews with 10 LHWS and 2 supervisors. \r\nOur main results show that existing LHWs in Pakistan have a fear of technology, which stops them from using technical solutions. We also find out that this fear can be reduced by using colorful, user-friendly mock-ups based trainings before introducing the actual technology to them.",
+        "submission": {
+            "mimetype": "application\/pdf",
+            "sha1": "0d5d4573eed1cecee7fb610388adc3d3f7ba770d",
+            "timestamp": 1474066375,
+            "filename": "Design Methods to Reduce Technology Fear and Solicit Feedback from Lady Health Workers (LHWs) in Pakistan.pdf"
+        }
+    },
+    {
+        "id": 36,
+        "title": "Prottasha: An Attempt to Help the Women Fighting Ovarian Cancer in Rural Areas of Bangladesh",
+        "status": "submitted",
+        "submitted": true,
+        "submitted_at": 1474057280,
+        "authors": [
+            {
+                "email": "novia@cse.uiu.ac.bd",
+                "first": "Novia",
+                "last": "Nurain",
+                "affiliation": "United International University",
+                "contact": true
+            },
+            {
+                "first": "Roksana",
+                "last": "Jahan",
+                "affiliation": "BUET"
+            },
+            {
+                "first": "Subarna Chowdhury",
+                "last": "Soma",
+                "affiliation": "BUET"
+            },
+            {
+                "email": "shisshir12@gmail.com",
+                "first": "Moin",
+                "last": "Mostakim",
+                "affiliation": "BUET"
+            }
+        ],
+        "abstract": "The rise in the numb er of deaths in Bangladesh owing to different female genital cancer, specifically ovarian cancer, emphasizes the need of having effective measures to aware women, specially the rural women about the prevention of ovarian cancer. Therefore, in this paper, we propose a mobile phone based application called Prottasha to provide diversified services regarding ovarian cancer for rural women of Bangladesh. Prottasha will provide a potential prediction on the risk of having ovarian cancer based on different demographic characteristics such as age, marital status, and the presence of common symptoms, exploiting efficient and effective data mining techniques. We also propose a model for low cost portable ultrasound scanner, which allows the rural women to have frequent screening at their home.",
+        "submission": {
+            "mimetype": "application\/pdf",
+            "sha1": "a55e7d489a55afcc22536268bf0b17f0d93ce953",
+            "timestamp": 1474057280,
+            "filename": "main.pdf"
+        }
+    },
+    {
+        "id": 37,
+        "title": "Designing the Ultimate Tech-Hub – ICT Ecosystem Acceleration",
+        "status": "submitted",
+        "submitted": true,
+        "submitted_at": 1474057399,
+        "authors": [
+            {
+                "email": "brian.omwenga@uonbi.ac.ke",
+                "first": "Brian",
+                "last": "Omwenga",
+                "affiliation": "University of Nairobi",
+                "contact": true
+            }
+        ],
+        "abstract": "This poster describes a virtual hub which attempts to achieve an entire ecosystem virtualization by offering through a single window, a collaborative integrated platform.",
+        "submission": {
+            "mimetype": "application\/pdf",
+            "sha1": "7b1369bf06034039ed23736ae149ce0abba070e8",
+            "timestamp": 1474057399,
+            "filename": "virtual_hub(poster)1.pdf"
+        }
+    },
+    {
+        "id": 38,
+        "title": "Global Software Development Projects as a Framework for Capacity Building in Developing Countries",
+        "status": "submitted",
+        "submitted": true,
+        "submitted_at": 1474064335,
+        "authors": [
+            {
+                "email": "cscharff@pace.edu",
+                "first": "Christelle",
+                "last": "Scharff",
+                "affiliation": "Pace University",
+                "contact": true
+            },
+            {
+                "first": "Yahya H.",
+                "last": "Sheikh"
+            },
+            {
+                "first": "Idris A.",
+                "last": "Rai"
+            }
+        ],
+        "abstract": "In the university setting, global software development (GSD) projects involve teams of students distributed across several countries and working collaboratively on the development of software artifacts and software. Students are confronted with issues related to distance, time and culture. In 2014, students from SUZA in Tanzania and Pace University in the US united in the annual GSD project to develop mobile apps targeting the Tanzanian context. In this paper, we focus on the roles and experience with GSD of Tanzanian students. We describe their motivations for participating, the challenges they encountered, and what they learned. We explore how GSD can be used to speed up skills acquisition for both entrepreneurs and IT professionals in developing countries. The results we present are useful for academic institutions, tech hubs and capacity building organizations.",
+        "submission": {
+            "mimetype": "application\/pdf",
+            "sha1": "cac890c6ecbe034f5241b00912a581ce23c29d2e",
+            "timestamp": 1474070301,
+            "filename": "acmdev2016_CC.pdf"
+        }
+    },
+    {
+        "id": 39,
+        "title": "UW-Pesa: A Mobile Money User Experience Experimentation Platform",
+        "status": "submitted",
+        "submitted": true,
+        "submitted_at": 1474069620,
+        "authors": [
+            {
+                "email": "tperrier@cs.washington.edu",
+                "first": "Trevor",
+                "last": "Perrier",
+                "affiliation": "University of Washington",
+                "contact": true
+            },
+            {
+                "email": "sarahyu@cs.washington.edu",
+                "first": "Sarah",
+                "last": "Yu",
+                "affiliation": "University of Washington",
+                "contact": true
+            },
+            {
+                "email": "anderson@cs.washington.edu",
+                "first": "Richard",
+                "last": "Anderson",
+                "affiliation": "University of Washington"
+            }
+        ],
+        "abstract": "This paper presents a simple web based mobile money sandbox called DEV-Pesa. The purpose of DEV-Pesa is to enable academic groups to explore issues of privacy, security, and usability within the rapidly growing space of Digital Financial Services for Development and especially mobile money services. Although financial services are an important sector within the broader field of mobile for development, innovating and understanding core concepts within theses services is difficult because the ecosystem is complex and dominated by a few mobile operators.  Most large scale mobile financial services rely on either SIM Toolkit or USSD based user interfaces with an assortment of smaller scale services introducing Android based mobile money applications.  DEV-Pesa aims to create a simplified testbed so that smaller projects can quickly prototype ideas without involving large mobile operators.  Currently the major components of DEV-Pesa are a web interface, transaction API, and a USSD implementation.",
+        "submission": {
+            "mimetype": "application\/pdf",
+            "sha1": "72cc29d1e06d4207d8a950c496973005a5468412",
+            "timestamp": 1474069620,
+            "filename": "dev-pesa-mobile.pdf"
+        }
+    },
+    {
+        "id": 40,
+        "title": "AWZone: Ad hoc WiFi Zonification in Post-Disaster Settings",
+        "status": "submitted",
+        "submitted": true,
+        "submitted_at": 1474996647,
+        "authors": [
+            {
+                "email": "arefin612@gmail.com",
+                "first": "Taslim Arefin",
+                "last": "Khan",
+                "contact": true
+            },
+            {
+                "email": "tusherchakraborty@matholympiad.org.bd",
+                "first": "Tusher",
+                "last": "Chakraborty",
+                "contact": true
+            },
+            {
+                "email": "alim_razi@cse.buet.ac.bd",
+                "first": "A. B. M. Alim Al",
+                "last": "Islam",
+                "contact": true
+            }
+        ],
+        "abstract": "Localization in disaster affected setting is a challenging problem. This is due to the nature of the environment and a large of unknowns. WiFi indoor localization is a common approach. However, existing literature is yet to address the problem of indoor localization in disaster setting. We propose AWZone, an ad hoc WiFi zonification technique. Using real experiments, our study reveals that AWZone can identify the zone accurately in most cases, eliminating incorrect zones from a set of possible results.",
+        "submission": {
+            "mimetype": "application\/pdf",
+            "sha1": "8929c0c7e9da9b7c0640fdd3f2fcf56664b8edbd",
+            "timestamp": 1474996680,
+            "filename": "awzone.pdf"
+        }
+    }
+]

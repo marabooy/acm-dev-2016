@@ -1,0 +1,66 @@
+{% extends 'template.twig' %}
+
+{% block content %}
+    <section id="two">
+        <div class="container">
+            <h3 style="margin-bottom: 1.65em">Accepted Papers & Posters</h3>
+
+            {#<div class="list-group">#}
+                {#<div class="list-group-item yetu ">#}
+                    {#<p class="list-group-item-text">Keynote Speakers</p>#}
+                {#</div>#}
+                {#<a class="list-group-item">#}
+                    {#<div class="list-group-item-text">#}
+                        {#<h5>Opening Keynote </h5>#}
+                        {#<div>{{ paper.abstract }}</div>#}
+                        {#<em>#}
+                            {##}
+                        {#</em>#}
+                    {#</div>#}
+                {#</a>#}
+            {#</div>#}
+
+            <div class="list-group">
+                <div class="list-group-item yetu ">
+                    <p class="list-group-item-text">Accepted Papers</p>
+                </div>
+
+                {% for paper in papers %}
+                    <a class="list-group-item">
+                        <div class="list-group-item-text">
+                            <h5> {{ paper.title }}</h5>
+                            {#<div>{{ paper.abstract }}</div>#}
+                            <em>
+                                {% for author in paper.authors %}
+                                    {{ author.first }} {{ author.last }}{% if not loop.last %},{% endif %}
+                                {% endfor %}
+                            </em>
+                        </div>
+                    </a>
+                {% endfor %}
+
+
+            </div>
+
+            <div class="list-group-item yetu ">
+                <p class="list-group-item-text">Accepted Posters</p>
+            </div>
+            {% for paper in posters %}
+                <a class="list-group-item">
+                    <div class="list-group-item-text">
+                        <h5> {{ paper.title }}</h5>
+                        {#<div>{{ paper.abstract }}</div>#}
+                        <em>
+                            {% for author in paper.authors %}
+                                {% if author.first is defined %}{{ author.first }}
+                                {% endif %}{{ author.last }}{% if not loop.last %},{% endif %}
+                            {% endfor %}
+                        </em>
+                    </div>
+                </a>
+            {% endfor %}
+
+
+        </div>
+    </section>
+{% endblock %}

@@ -1,0 +1,109 @@
+<!DOCTYPE HTML>
+<!--
+	Read Only by HTML5 UP
+	html5up.net | @n33co
+	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+-->
+<html>
+<head>
+    <title> {{ activepage|capitalize }} | ACM DEV</title>
+    <meta charset="utf-8"/>
+    <meta name="viewport" content="width=device-width, initial-scale=1"/>
+    <!--[if lte IE 8]>
+    <script src="/assets/js/ie/html5shiv.js"></script><![endif]-->
+    <link rel="stylesheet" href="/assets/css/bootstrap.css">
+
+    <link rel="stylesheet" href="/assets/css/main.css"/>
+
+    <!--[if lte IE 8]>
+    <link rel="stylesheet" href="/assets/css/ie8.css"/><![endif]-->
+</head>
+<body>
+
+
+<!-- Header -->
+<section id="header">
+    <header>
+        <span class="image avatar"><img src="/images/logo.png" alt=""/></span>
+        <h1 id="logo"><a href="/">ACM DEV 2016</a></h1>
+        <p>18<sup>th</sup> - 20<sup>th</sup> November </p>
+        <p>Nairobi, Kenya</p>
+        {#<p>Seventh ACM Symposium on Computing and Development </p>#}
+    </header>
+    <nav id="nav">
+        <ul>
+            <li><a href="/" {% if activepage == 'home' %} class="active" {% endif %}>Home</a></li>
+            <li><a href="/schedule" {% if activepage == 'Schedule' %} class="active" {% endif %}>Schedule</a></li>
+            <li><a href="/localinfo" {% if activepage == 'localinfo' %} class="active" {% endif %}>Local Information</a></li>
+            <li><a href="/program" {% if activepage == 'program' %} class="active" {% endif %}>Program</a></li>
+            <li><a href="/registration" {% if activepage == 'registration' %} class="active" {% endif %}>Registration</a></li>
+            <li><a href="/organizers" {% if activepage == 'organizers' %} class="active" {% endif %}>Organizers</a></li>
+            <li><a href="/call-for-papers" {% if activepage == 'papers' %} class="active" {% endif %}>Call for
+                    Papers</a></li>
+            <li><a href="/call-for-posters" {% if activepage == 'posters' %} class="active" {% endif %}>Call for
+                    Posters</a></li>
+            <li>
+                <a href="/submissions" {% if activepage == 'submissions' %} class="active" {% endif %}>Submissions</a>
+            </li>
+
+            <li><a href="http://dev6.acmdev.org/">ACM DEV 2015</a></li>
+        </ul>
+    </nav>
+    <footer>
+        <ul class="icons">
+            <li><a href="https://twitter.com/acmdev2016" class="icon fa-twitter"><span class="label">Twitter</span></a>
+            </li>
+            <li><a href="https://www.facebook.com/acmdev2016" class="icon fa-facebook"><span
+                            class="label">Facebook</span></a></li>
+            <!--<li><a href="#" class="icon fa-instagram"><span class="label">Instagram</span></a></li>-->
+            <!--<li><a href="#" class="icon fa-github"><span class="label">Github</span></a></li>-->
+            <li><a href="mailto:acmdev2016@gmail.com" class="icon fa-envelope"><span class="label">Email</span></a></li>
+        </ul>
+    </footer>
+</section>
+
+<!-- Wrapper -->
+<div id="wrapper">
+
+    <!-- Main -->
+    <div id="main">
+
+        <!-- One -->
+        {% block content %}{% endblock %}
+    </div>
+
+    <!-- Footer -->
+    {% if activepage != "home" %}
+    <section id="footer">
+        <div class="container">
+            <ul class="copyright">
+                <li>&copy; ACM DEV. All rights reserved.</li>
+                {#<li>Design: <a href="http://html5up.net">HTML5 UP</a></li>#}
+            </ul>
+        </div>
+    </section>
+    {% endif %}
+
+</div>
+
+<!-- Scripts -->
+<script src="/assets/js/jquery.min.js"></script>
+<script src="/assets/js/jquery.scrollzer.min.js"></script>
+<script src="/assets/js/jquery.scrolly.min.js"></script>
+<script src="/assets/js/skel.min.js"></script>
+<script src="/assets/js/util.js"></script>
+<!--[if lte IE 8]>
+<script src="/assets/js/ie/respond.min.js"></script><![endif]-->
+<script src="/assets/js/main.js"></script>
+<script>
+    (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+                (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+            m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+    })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+    ga('create', 'UA-78679311-1', 'auto');
+    ga('send', 'pageview');
+
+</script>
+</body>
+</html>

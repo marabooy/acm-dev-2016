@@ -1,0 +1,24 @@
+{% extends 'template.twig' %}
+
+{% block content %}
+
+
+    <section id="two">
+        <div class="container">
+            <h3 style="margin-bottom: 1.65em">{{ paper.title }}</h3>
+            <strong>
+                <em>
+                    {% for author in paper.authors %}
+                        {% if author.first is defined %}{{ author.first }}
+                        {% endif %}{{ author.last }}{% if not loop.last %},{% endif %}
+                    {% endfor %}
+                </em>
+            </strong>
+            <br/>
+            <div>{{ paper.abstract }}</div>
+
+
+        </div>
+    </section>
+
+{% endblock %}
